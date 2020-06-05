@@ -1,0 +1,1931 @@
+debut : 2020-06-05 08:20:11.968256
+Evaluation data set is:[0]
+Evaluation data set is:../CorpusAnnote3cat/groupsAll/group0
+true positives:	59	72	قهوة أبي نواس	LOC-Build
+False positives:	27	41	قهوة أبي الفضل	LOC-Build
+true positives:	5	17	القصر الكبير	LOC-Build
+False positives:	212	223	موانئ الصين	LOC-Build
+False negatives:	218	223	الصين	LOC-Admin
+False positives:	113	124		LOC-Admin
+true positives:	322	328	أوروبا	LOC-Admin
+False positives:	346	352	الشرقي	LOC-Admin
+true positives:	176	181	باريس	LOC-Admin
+False positives:	94	101	الجزائر	LOC-Admin
+true positives:	23	28	الشرق	LOC-Admin
+true positives:	53	64	كلية الحقوق	LOC-Build
+true positives:	41	46	باريس	LOC-Admin
+true positives:	66	73	الجزائر	LOC-Admin
+true positives:	58	63	باريس	LOC-Admin
+False negatives:	282	287	روسيا	LOC-Admin
+true positives:	93	96	مصر	LOC-Admin
+False positives:	7	19	میدان كنكورد	LOC-Admin
+False negatives:	7	26	میدان كنكورد بفنائه	LOC-Admin
+False positives:	29	34	حِنطة	LOC-Admin
+False positives:	24	40	طريق الشانزليزيه	LOC-Path
+true positives:	43	47	تونس	LOC-Admin
+False positives:	4	28	الواجهة الخلفية للتياترو	LOC-Build
+False negatives:	4	19	الواجهة الخلفية	LOC-Build
+False positives:	452	458		LOC-Admin
+true positives:	57	75	مجلس الأمة الفرنسي	LOC-Build
+False positives:	42	53	مدينة بایون	LOC-Admin
+true positives:	47	55	برج إيفل	LOC-Build
+true positives:	15	20	باريس	LOC-Admin
+true positives:	3	13	حي الأوبرا	LOC-Admin
+False positives:	46	55	اللافابیت	LOC-Build
+true positives:	82	87	الشرق	LOC-Admin
+False positives:	108	122	البلاد الراقية	LOC-Admin
+true positives:	25	28	مصر	LOC-Admin
+False positives:	168	188	جمعية الوحدة العربية	LOC-Build
+true positives:	84	89	لندرة	LOC-Admin
+true positives:	283	288	پاريس	LOC-Admin
+False positives:	29	36	يليا إل	LOC-Admin
+False negatives:	38	43	باريس	LOC-Admin
+true positives:	4	9	باريس	LOC-Admin
+true positives:	12	23	قصر الأمومة	LOC-Build
+False positives:	54	68	قصر مملكة صيام	LOC-Build
+False negatives:	54	63	قصر مملكة	LOC-Build
+true positives:	8	12	تبسة	LOC-Admin
+False positives:	39	56	محكمة جنح الأطفال	LOC-Build
+true positives:	32	37	فرنسا	LOC-Admin
+False positives:	39	46	إنكلترة	LOC-Admin
+true positives:	8	23	الشرق القسنطيني	LOC-Admin
+False positives:	216	227	ميناء عنابة	LOC-Path
+False negatives:	216	227	ميناء عنابة	LOC-Build
+False positives:	278	283		LOC-Admin
+False negatives:	76	81	پاريس	LOC-Admin
+False positives:	18	23	باريس	LOC-Admin
+False negatives:	62	76	بستان النباتات	LOC-Natur
+False positives:	15	26	مدينة باريس	LOC-Admin
+False negatives:	134	150	المملكة الفرنسية	LOC-Admin
+true positives:	58	63	باريس	LOC-Admin
+False positives:	292	304	بلديات باريس	LOC-Build
+False negatives:	299	304	باريس	LOC-Admin
+False positives:	108	130	دكان سي الصادق بو ذراع	LOC-Build
+False negatives:	108	122	دكان سي الصادق	LOC-Build
+False positives:	12	21	بلاد آسيا	LOC-Admin
+true positives:	24	29	باريس	LOC-Admin
+true positives:	58	63	مراكش	LOC-Admin
+False positives:	41	50	نهر السين	LOC-Build
+False negatives:	41	50	نهر السين	LOC-Natur
+true positives:	69	74	فرنسا	LOC-Admin
+False positives:	98	103	باريس	LOC-Admin
+False positives:	58	63	ـتبسة	LOC-Admin
+False negatives:	57	63	بـتبسة	LOC-Admin
+true positives:	211	216	فرنسا	LOC-Admin
+False positives:	381	390	دوار جساس	LOC-Admin
+true positives:	314	319	باريس	LOC-Admin
+False positives:	84	94	ساحة النجم	LOC-Admin
+False positives:	28	31	ة ا	LOC-Admin
+False positives:	104	110	فلسطين	LOC-Admin
+False negatives:	498	507	ضفة البحر	LOC-Natur
+true positives:	49	61	البحر المحيط	LOC-Natur
+true positives:	21	33	حي مونبارناس	LOC-Admin
+False positives:	178	192	ملاهي مونمارتر	LOC-Build
+False negatives:	178	192	ملاهي مونمارتر	LOC-Admin
+true positives:	37	49	بلاد الموسقو	LOC-Admin
+False positives:	20	32	البحر الأبيض	LOC-Natur
+False negatives:	6	13	بحر آخر	LOC-Natur
+true positives:	40	45	الشام	LOC-Admin
+False positives:	16	33	نفق المترو الطويل	LOC-Path
+true positives:	182	187	باريس	LOC-Admin
+False positives:	1	6	فرنسا	LOC-Admin
+true positives:	5	14	بلاد آسيا	LOC-Admin
+False positives:	553	562	بلاد آسيا	LOC-Admin
+False negatives:	26	38	بلاد الإسلام	LOC-Admin
+False positives:	8	13	يسمى 	LOC-Admin
+False positives:	4	27	الواجهة الخلفية للوكالة	LOC-Build
+False negatives:	4	19	الواجهة الخلفية	LOC-Build
+true positives:	18	23	باريس	LOC-Admin
+true positives:	64	85	معهد الدراسات الشرقية	LOC-Build
+False positives:	110	134	محطة كادیه للقطار الجوفي	LOC-Build
+true positives:	355	360	لندرة	LOC-Admin
+False positives:	49	63	البلاد الشرقية	LOC-Admin
+False negatives:	183	188	الشرق	LOC-Admin
+False positives:	467	472		LOC-Admin
+False negatives:	28	33	باريس	LOC-Admin
+False positives:	60	75		LOC-Build
+False positives:	27	40	مصلحة البوسطة	LOC-Build
+False positives:	79	94	مدرجات السوربون	LOC-Build
+False negatives:	86	94	السوربون	LOC-Build
+true positives:	28	33	باريس	LOC-Admin
+true positives:	153	165	حي المغربلين	LOC-Admin
+true positives:	13	18	باريس	LOC-Admin
+False positives:	212	215	حلب	LOC-Admin
+False negatives:	256	270	طمراكش سبعمائة	LOC-Build
+true positives:	18	23	باريس	LOC-Admin
+true positives:	36	47	بلاد أوروبا	LOC-Admin
+False positives:	49	61	بلاد الإفرنج	LOC-Admin
+False negatives:	119	137	بلاد الدولة العلية	LOC-Admin
+False positives:	69	78	دول أوربا	LOC-Admin
+False negatives:	168	183	سراي الترانسڤال	LOC-Build
+true positives:	165	175	شارع الأمم	LOC-Path
+False positives:	12	31	قصور الدول الأجنبية	LOC-Build
+False negatives:	17	31	الدول الأجنبية	LOC-Admin
+False positives:	43	56	جمعية العلماء	LOC-Build
+true positives:	206	214	بلاد مصر	LOC-Admin
+False positives:	217	224	السودان	LOC-Admin
+False negatives:	342	348	أوروبا	LOC-Admin
+true positives:	33	38	فرنسا	LOC-Admin
+False positives:	558	568		LOC-Admin
+False negatives:	251	256	فرنسا	LOC-Admin
+False positives:	58	71	الحي اللاتيني	LOC-Admin
+true positives:	42	47	باريس	LOC-Admin
+False positives:	153	160	الروسية	LOC-Admin
+False positives:	402	407	فرنسا	LOC-Admin
+False negatives:	401	407	بفرنسا	LOC-Admin
+true positives:	161	174	الحي اللاتيني	LOC-Admin
+False positives:	62	78	مدرسـة اللاسـلكي	LOC-Build
+true positives:	37	42	باريس	LOC-Admin
+true positives:	299	304	باريس	LOC-Admin
+true positives:	115	120	باريس	LOC-Admin
+False negatives:	156	168	بلاد الإفرنج	LOC-Admin
+true positives:	264	269	فرنسا	LOC-Admin
+true positives:	149	159	بلاد فرنسا	LOC-Admin
+true positives:	75	79	تبسة	LOC-Admin
+true positives:	165	180	العالم الإسلامي	LOC-Admin
+true positives:	198	203	باريس	LOC-Admin
+False negatives:	17	22	باريس	LOC-Admin
+true positives:	17	22	الشرق	LOC-Admin
+False negatives:	231	235	بمَن	LOC-Admin
+true positives:	53	58	باريس	LOC-Admin
+true positives:	88	102	جامعة السوربون	LOC-Build
+False positives:	6	22	الكوميدي فرانسيز	LOC-Build
+true positives:	116	121	باريس	LOC-Admin
+False negatives:	93	103	كرام الناس	LOC-Build
+true positives:	33	44	مدينة نابلي	LOC-Admin
+true positives:	128	143	شارع سان جيرمان	LOC-Path
+False positives:	39	49	مجلس الأمة	LOC-Build
+False negatives:	150	159	سان ميشيل	LOC-Build
+False positives:	65	78	الحي اللاتيني	LOC-Admin
+False positives:	178	188	ضفة النيجر	LOC-Natur
+False negatives:	11	21	سور المعرض	LOC-Build
+False positives:	114	129	الشمال الإفريقي	LOC-Admin
+true positives:	43	59	شارع الشانزليزيه	LOC-Path
+False positives:	91	108	طريق نقولا الثاني	LOC-Path
+true positives:	35	52	المدرسة الإصلاحية	LOC-Build
+true positives:	150	164	مدرسة اللاسلكي	LOC-Build
+true positives:	45	53	سكة يانا	LOC-Build
+False positives:	55	68	شارع مجد بورج	LOC-Path
+False negatives:	60	68	مجد بورج	LOC-Build
+true positives:	19	26	إنكلترا	LOC-Admin
+true positives:	46	49	مصر	LOC-Admin
+true positives:	29	41	شمال إفريقيا	LOC-Admin
+False positives:	52	57	باريس	LOC-Admin
+False positives:	186	198	ناحية الباسك	LOC-Path
+False negatives:	92	108	المعهد فوصلت قبل	LOC-Build
+true positives:	43	55	بلاد الأندلس	LOC-Admin
+False positives:	113	125	البحر المحيط	LOC-Natur
+False negatives:	150	170	الدول لأرباب الأسفار	LOC-Admin
+true positives:	53	56	مصر	LOC-Admin
+False positives:	58	63	الشرق	LOC-Admin
+False positives:	19	34	الوكالة العربية	LOC-Build
+False negatives:	15	34	حوش الوكالة العربية	LOC-Build
+true positives:	39	44	باريس	LOC-Admin
+true positives:	157	162	باريس	LOC-Admin
+False positives:	135	147	غابة بولونيا	LOC-Natur
+False negatives:	140	147	بولونيا	LOC-Admin
+False positives:	28	41	الحي اللاتيني	LOC-Build
+False negatives:	28	41	الحي اللاتيني	LOC-Admin
+true positives:	148	153	باريس	LOC-Admin
+False positives:	11	17	بروویه	LOC-Admin
+true positives:	19	26	إنكلترة	LOC-Admin
+true positives:	185	190	باريس	LOC-Admin
+False positives:	260	265	باريس	LOC-Admin
+true positives:	335	347	شمال إفريقيا	LOC-Admin
+False positives:	87	91	أفلو	LOC-Admin
+true positives:	208	213	باريس	LOC-Admin
+true positives:	266	276	بلاد فرنسا	LOC-Admin
+False positives:	18	23	باريس	LOC-Admin
+False negatives:	86	91	باريس	LOC-Admin
+true positives:	9	24	باب التروكاديرو	LOC-Build
+true positives:	98	105	رومانيا	LOC-Admin
+False positives:	38	52	مدرسة اللاسلكي	LOC-Build
+False negatives:	37	52	بمدرسة اللاسلكي	LOC-Build
+False positives:	64	81	محطة «باب الحديد»	LOC-Build
+true positives:	98	103	باريس	LOC-Admin
+False positives:	128	140	مدينة أشبونة	LOC-Admin
+False negatives:	46	62	مدينة مدريد كرسي	LOC-Admin
+Evaluation data set is:[1]
+Evaluation data set is:../CorpusAnnote3cat/groupsAll/group1
+False positives:	32	43	ساحة المرسح	LOC-Build
+False negatives:	32	43	ساحة المرسح	LOC-Admin
+true positives:	113	118	باريس	LOC-Admin
+False positives:	79	85	الأزهر	LOC-Build
+true positives:	24	27	مصر	LOC-Admin
+False positives:	3	14	مدينة تبسّة	LOC-Admin
+true positives:	28	42	جمهورية تريفيز	LOC-Build
+False positives:	82	88	برسطول	LOC-Admin
+true positives:	127	140	الحي اللاتيني	LOC-Admin
+true positives:	9	23	حديقة النباتات	LOC-Build
+False positives:	936	948		LOC-Admin
+False positives:	21	44	عاصمة الفرنسيس برج إيفل	LOC-Build
+False negatives:	21	35	عاصمة الفرنسيس	LOC-Admin
+False positives:	37	40		LOC-Admin
+true positives:	180	193	الأزهر الشريف	LOC-Build
+False positives:	55	60	الشرق	LOC-Admin
+False negatives:	55	68	الشرق الإطالة	LOC-Admin
+False positives:	119	135	باب سيدي بن سعيد	LOC-Path
+False positives:	21	27	شاتلیه	LOC-Admin
+true positives:	16	21	باريس	LOC-Admin
+False positives:	102	112	شاطئ البحر	LOC-Natur
+False positives:	214	229	مدرسة الأميركان	LOC-Build
+true positives:	138	143	باريس	LOC-Admin
+False positives:	8	13	بوردو	LOC-Admin
+true positives:	102	109	الجزائر	LOC-Admin
+true positives:	146	162	الكنيسة المتأصلة	LOC-Build
+true positives:	289	294	فرنسا	LOC-Admin
+False positives:	15	20	باريس	LOC-Admin
+true positives:	28	33	باريس	LOC-Admin
+False positives:	35	42	بزانسون	LOC-Admin
+true positives:	19	32	ساحة البرتقال	LOC-Build
+False positives:	34	48	بستان التويلري	LOC-Build
+true positives:	4	15	قهوة الجامع	LOC-Build
+False positives:	62	72	قهوة عربية	LOC-Build
+False positives:	47	76	مؤسسة هنداوي للتعليم والثقافة	LOC-Build
+False positives:	13	18	باريس	LOC-Admin
+true positives:	29	40	التروكاديرو	LOC-Admin
+False positives:	52	68	ميدان شان دومارس	LOC-Admin
+False negatives:	58	68	شان دومارس	LOC-Admin
+true positives:	4	7	مصر	LOC-Admin
+true positives:	368	381	دولة الإنكليز	LOC-Admin
+False positives:	276	281	الشرق	LOC-Admin
+False positives:	88	103	حي سيدنا الحسين	LOC-Admin
+False positives:	10	15	باريس	LOC-Admin
+true positives:	150	153	مصر	LOC-Admin
+False positives:	88	93	الشرق	LOC-Admin
+true positives:	317	320	مصر	LOC-Admin
+False positives:	329	334	باريس	LOC-Admin
+False negatives:	432	447	إنكلترة القديمة	LOC-Admin
+true positives:	49	62	الحي اللاتيني	LOC-Admin
+False positives:	205	212		LOC-Admin
+true positives:	33	48	الجامعة المصرية	LOC-Build
+true positives:	187	190	مصر	LOC-Admin
+False positives:	341	352	إدورد ستريت	LOC-Adress
+true positives:	32	45	الحي اللاتيني	LOC-Admin
+true positives:	136	141	فرنسا	LOC-Admin
+true positives:	390	393	مصر	LOC-Admin
+False positives:	72	82	الإسكندرية	LOC-Admin
+False negatives:	66	82	قبالة الإسكندرية	LOC-Build
+true positives:	37	42	فرنسا	LOC-Admin
+False positives:	28	44	ق، فقد يكون هذا 	LOC-Build
+true positives:	101	104	مصر	LOC-Admin
+False negatives:	267	273	فرانسا	LOC-Admin
+true positives:	24	29	باريس	LOC-Admin
+true positives:	55	62	القاهرة	LOC-Admin
+False positives:	119	124	باريس	LOC-Admin
+False negatives:	70	85	الأبنية الفخيمة	LOC-Build
+true positives:	149	161	شمال إفريقيا	LOC-Admin
+False positives:	163	168	باريس	LOC-Admin
+true positives:	36	53	جنة الحي اللاتيني	LOC-Build
+False positives:	36	44	عين أقطر	LOC-Natur
+true positives:	3	8	باريس	LOC-Admin
+False positives:	32	37	فرنسا	LOC-Admin
+true positives:	8	23	الوكالة العربية	LOC-Build
+False positives:	45	50	باريس	LOC-Admin
+False positives:	113	122	الشام لمج	LOC-Natur
+true positives:	777	782	فرنسا	LOC-Admin
+False positives:	440	453	الجامع الأزهر	LOC-Build
+False positives:	218	225	كتشينیف	LOC-Admin
+False positives:	158	163	باريس	LOC-Admin
+true positives:	12	15	مصر	LOC-Admin
+False positives:	17	22	الشرق	LOC-Admin
+False positives:	232	243	مدينة كابان	LOC-Admin
+true positives:	129	139	مسجد باريس	LOC-Build
+true positives:	143	148	باريس	LOC-Admin
+False positives:	50	62	شارع الأوبرا	LOC-Path
+False negatives:	50	62	شارع الأوبرا	LOC-Admin
+true positives:	3	8	باريس	LOC-Admin
+False positives:	60	69	قسطنطينية	LOC-Admin
+true positives:	8	11	مصر	LOC-Admin
+true positives:	16	29	الحي اللاتيني	LOC-Admin
+true positives:	180	185	باريس	LOC-Admin
+False positives:	139	150	مدينة دروکس	LOC-Admin
+False positives:	13	22	ريكا» فأو	LOC-Admin
+False negatives:	10	17	أميريكا	LOC-Admin
+true positives:	82	87	لبنان	LOC-Admin
+False positives:	58	67	بلاد سبير	LOC-Admin
+true positives:	124	137	الأرض المقدسة	LOC-Admin
+False positives:	271	286	العالم الإسلامي	LOC-Admin
+False negatives:	36	48	اعتقادي أعلم	LOC-Build
+true positives:	42	47	باريس	LOC-Admin
+true positives:	75	84	باب فرساي	LOC-Admin
+False positives:	86	100	ميدان کنفنسيون	LOC-Admin
+False positives:	8	27	جريدة العمل الفرنسي	LOC-Build
+False positives:	32	42	الشانزلزيه	LOC-Admin
+False negatives:	72	80	برج ایفل	LOC-Build
+true positives:	61	67	أوروبا	LOC-Admin
+False positives:	16	23	البوغاز	LOC-Natur
+true positives:	24	29	باريس	LOC-Admin
+true positives:	171	176	باريس	LOC-Admin
+False positives:	155	164	صان جرمان	LOC-Admin
+False positives:	144	147	جدة	LOC-Admin
+False positives:	211	224	جمعية العلماء	LOC-Build
+true positives:	5	20	قصر التروكاديرو	LOC-Build
+true positives:	7	12	باريس	LOC-Admin
+true positives:	43	49	مكسيكو	LOC-Admin
+False positives:	18	38	بلاد أمريقة الشمالية	LOC-Admin
+False negatives:	23	38	أمريقة الشمالية	LOC-Admin
+true positives:	50	55	باريس	LOC-Admin
+true positives:	33	46	الحي اللاتيني	LOC-Admin
+False positives:	200	207	الجزائر	LOC-Admin
+true positives:	136	141	باريس	LOC-Admin
+False positives:	89	102	الحي اللاتيني	LOC-Admin
+true positives:	62	71	بيت الشعب	LOC-Build
+False positives:	73	85	منازل الحبال	LOC-Build
+False positives:	74	87	كنت أكتب في ج	LOC-Admin
+False negatives:	42	55	الحي اللاتيني	LOC-Admin
+true positives:	218	225	اليابان	LOC-Admin
+False positives:	228	234	النمسا	LOC-Admin
+true positives:	116	123	القاهرة	LOC-Admin
+False positives:	134	140	منتثنا	LOC-Natur
+False negatives:	257	261	جبل،	LOC-Natur
+False positives:	93	99	الطائف	LOC-Admin
+true positives:	28	41	الحي اللاتيني	LOC-Admin
+true positives:	174	179	فرنسا	LOC-Admin
+False positives:	31	36	باريس	LOC-Admin
+true positives:	220	225	باريس	LOC-Admin
+False positives:	17	22	 عادة	LOC-Admin
+False positives:	89	98	مسيا لموز	LOC-Build
+true positives:	229	244	الجامعة المصرية	LOC-Build
+False negatives:	74	90	المدارس الثانوية	LOC-Build
+true positives:	105	108	مصر	LOC-Admin
+False positives:	4	15	قسم الحيوان	LOC-Path
+False negatives:	4	15	قسم الحيوان	LOC-Build
+False positives:	93	104	بلاد أمريكة	LOC-Admin
+False negatives:	93	266	بلاد أمريكة اختار الإفرنج أن يجعل كل قطر من الأقطار خط نصف نهارهم الأولي ببلادهم، لينسبوا إليها ما عداها، كما صنع الفرنساوية، فإنهم جعلوا خط نصف نهارهم الأولي في مدينة باريس	LOC-Admin
+true positives:	214	220	غرناطة	LOC-Admin
+False positives:	190	210	المعهد العربي بقرطبة	LOC-Build
+true positives:	18	23	فرنسا	LOC-Admin
+true positives:	111	116	فرنسا	LOC-Admin
+False positives:	159	164	باريس	LOC-Admin
+true positives:	183	188	باريس	LOC-Admin
+False positives:	37	42	باريس	LOC-Admin
+False positives:	5	13	التياترو	LOC-Build
+true positives:	26	39	شارع مجد بورج	LOC-Path
+False positives:	65	74	بلغ ما تن	LOC-Admin
+False negatives:	13	18	باريس	LOC-Admin
+true positives:	256	259	مصر	LOC-Admin
+true positives:	9	14	باريس	LOC-Admin
+true positives:	96	99	مصر	LOC-Admin
+False positives:	59	70	غرفة البقال	LOC-Build
+true positives:	12	26	مدينة إسكندرية	LOC-Admin
+False positives:	28	34	بر مصر	LOC-Admin
+False positives:	25	32		LOC-Admin
+true positives:	128	132	دمشق	LOC-Admin
+False positives:	22	27	الشام	LOC-Admin
+true positives:	68	73	باريس	LOC-Admin
+true positives:	17	30	الحي اللاتيني	LOC-Admin
+False positives:	103	122	سوق الكتب المستعملة	LOC-Path
+true positives:	67	70	مصر	LOC-Admin
+true positives:	275	280	باريس	LOC-Admin
+False negatives:	51	64	الباب الرئيسي	LOC-Build
+true positives:	46	57	دار الأوبرا	LOC-Build
+true positives:	11	14	مصر	LOC-Admin
+False negatives:	73	80	أكسفورد	LOC-Build
+true positives:	71	76	مالطة	LOC-Admin
+False positives:	78	85	إيطاليا	LOC-Admin
+False negatives:	509	514	الشام	LOC-Admin
+true positives:	3	19	ساحة السان دونيه	LOC-Admin
+False positives:	1	6	باريس	LOC-Admin
+Evaluation data set is:[2]
+Evaluation data set is:../CorpusAnnote3cat/groupsAll/group2
+true positives:	19	23	تبسة	LOC-Admin
+False positives:	200	215	قرية وادي رحمون	LOC-Admin
+False positives:	141	151	مدينة دمشق	LOC-Admin
+true positives:	103	114	بلاد تمبكتو	LOC-Admin
+true positives:	14	19	باريس	LOC-Admin
+true positives:	4	21	بلاد البحر المحيط	LOC-Admin
+False positives:	43	55	مدينة بتاويا	LOC-Admin
+False negatives:	164	171	الجزائر	LOC-Admin
+true positives:	18	25	القاهرة	LOC-Admin
+False positives:	134	139	باريس	LOC-Admin
+False positives:	34	39	ثير م	LOC-Admin
+False positives:	12	23	نادي الترقي	LOC-Build
+False negatives:	370	384	الشعب الجزائري	LOC-Admin
+true positives:	73	85	بلاد الأندلس	LOC-Admin
+False positives:	122	132	بحر الزقاق	LOC-Natur
+False negatives:	178	185	الأندلس	LOC-Admin
+true positives:	10	14	تبسة	LOC-Admin
+true positives:	703	713	دولة الهند	LOC-Admin
+False negatives:	327	339	القسم الثاني	LOC-Build
+true positives:	24	29	باريس	LOC-Admin
+true positives:	42	50	مارسيليا	LOC-Admin
+False positives:	184	197	مدينة الأنوار	LOC-Admin
+true positives:	197	202	الشرق	LOC-Admin
+False negatives:	141	146	الغرب	LOC-Admin
+true positives:	116	121	الشرق	LOC-Admin
+False positives:	62	67	الشرق	LOC-Admin
+False negatives:	152	157	أقفاص	LOC-Admin
+true positives:	17	24	الجزائر	LOC-Admin
+False negatives:	113	119	محراثه	LOC-Admin
+False positives:	200	220	شَارع فريدريك مسترال	LOC-Path
+true positives:	107	117	الإسكندرية	LOC-Admin
+False positives:	83	90	اليونان	LOC-Admin
+False positives:	56	67	شارع لوكونت	LOC-Path
+true positives:	78	83	الغرب	LOC-Admin
+true positives:	16	20	لندن	LOC-Admin
+true positives:	74	85	بحر البلتيك	LOC-Natur
+False negatives:	226	241	البلاد الأجنبية	LOC-Admin
+true positives:	60	65	باريس	LOC-Admin
+False positives:	108	113	فرنسا	LOC-Admin
+False negatives:	51	60	نهر السين	LOC-Natur
+true positives:	14	19	باريس	LOC-Admin
+False positives:	23	27	جنيف	LOC-Admin
+true positives:	24	28	ليون	LOC-Admin
+False positives:	1	8	مرسيليا	LOC-Admin
+true positives:	66	87	معهد الدراسات الشرقية	LOC-Build
+true positives:	3	13	ساحة كليشي	LOC-Admin
+False positives:	79	87	الهينيين	LOC-Build
+true positives:	40	45	باريس	LOC-Admin
+False positives:	29	42	الفولي بيرجير	LOC-Build
+true positives:	240	243	مصر	LOC-Admin
+true positives:	184	193	حي الشباب	LOC-Admin
+False positives:	69	80	م العلوم خص	LOC-Admin
+False negatives:	8	19	مدينة باريس	LOC-Admin
+False positives:	101	106	باريس	LOC-Admin
+False negatives:	100	106	بباريس	LOC-Admin
+true positives:	16	22	أوروبا	LOC-Admin
+False positives:	133	144	معرض البلور	LOC-Build
+true positives:	439	444	باريس	LOC-Admin
+False negatives:	212	222	بلاد العجم	LOC-Admin
+False positives:	162	171	ل أسبوع أ	LOC-Build
+False negatives:	100	104	ليون	LOC-Admin
+False positives:	146	156	ناحية جساس	LOC-Admin
+False negatives:	152	156	جساس	LOC-Admin
+true positives:	108	121	المعهد العربي	LOC-Build
+False positives:	137	144	إسبانيا	LOC-Admin
+False positives:	1	6	باريس	LOC-Admin
+true positives:	13	23	مسجد باريس	LOC-Build
+False negatives:	325	328	مصر	LOC-Admin
+False positives:	34	39	ين فر	LOC-Admin
+False positives:	19	24	ويانة	LOC-Admin
+true positives:	92	98	أوروبا	LOC-Admin
+true positives:	14	19	باريس	LOC-Admin
+False positives:	654	677	الدولة العلية العثمانية	LOC-Admin
+False negatives:	654	667	الدولة العلية	LOC-Admin
+true positives:	110	115	باريس	LOC-Admin
+False negatives:	50	58	سفر سعيد	LOC-Build
+False positives:	60	63		LOC-Admin
+False negatives:	5	8	مصر	LOC-Admin
+true positives:	101	104	مصر	LOC-Admin
+true positives:	53	66	الحي اللاتيني	LOC-Admin
+False positives:	38	49	ملعب الشباب	LOC-Build
+true positives:	19	23	لندن	LOC-Admin
+False negatives:	167	177	محطة القطر	LOC-Build
+true positives:	122	135	المتحف المصري	LOC-Build
+False positives:	86	97		LOC-Admin
+true positives:	4	10	سويسرا	LOC-Admin
+False positives:	25	36	سوق البرغوث	LOC-Path
+False negatives:	25	36	سوق البرغوث	LOC-Admin
+true positives:	37	42	باريس	LOC-Admin
+true positives:	79	84	عنابة	LOC-Admin
+true positives:	48	63	الجامعة المصرية	LOC-Build
+False positives:	139	160	صندوق التوفير الفرنسي	LOC-Build
+true positives:	22	27	باريس	LOC-Admin
+true positives:	6	11	باريس	LOC-Admin
+False positives:	76	85	باب فنسين	LOC-Admin
+true positives:	26	39	الحي اللاتيني	LOC-Admin
+False positives:	306	322	شارع لودر ورولان	LOC-Path
+False negatives:	79	92	الطرف التونسي	LOC-Admin
+true positives:	74	79	باريس	LOC-Admin
+true positives:	9	14	باريس	LOC-Admin
+true positives:	66	69	مصر	LOC-Admin
+true positives:	189	205	القطاع القسنطيني	LOC-Admin
+False positives:	214	224	مدينة تبسة	LOC-Admin
+False negatives:	220	224	تبسة	LOC-Admin
+true positives:	21	25	دمشق	LOC-Admin
+False positives:	31	36	بغداد	LOC-Admin
+true positives:	127	134	القاهرة	LOC-Admin
+true positives:	178	183	فرنسا	LOC-Admin
+False positives:	31	44	متنزه برطانيا	LOC-Path
+true positives:	97	106	نهر السين	LOC-Natur
+False positives:	165	183	باب وكالة النحاسين	LOC-Build
+False negatives:	149	154	بندرة	LOC-Admin
+true positives:	25	30	باريس	LOC-Admin
+true positives:	22	27	فرنسا	LOC-Admin
+true positives:	130	133	مصر	LOC-Admin
+False positives:	99	112	شارع النحاسين	LOC-Path
+False positives:	4	9	بة في	LOC-Admin
+False negatives:	16	21	باريس	LOC-Admin
+true positives:	79	84	النيل	LOC-Natur
+true positives:	117	122	الصين	LOC-Admin
+False positives:	129	142	الهند الصينية	LOC-Admin
+False negatives:	129	134	الهند	LOC-Admin
+False positives:	157	167	وادي النيل	LOC-Natur
+False negatives:	12	21	قبور تمثل	LOC-Build
+true positives:	33	44	متحف اللوفر	LOC-Build
+true positives:	37	40	مصر	LOC-Admin
+False positives:	188	203	الجزيرة العربية	LOC-Admin
+False positives:	1	16	شارع الشانزلزيه	LOC-Path
+False positives:	213	218	باريس	LOC-Admin
+False negatives:	52	65	جمعية العلماء	LOC-Build
+true positives:	89	101	بلاد الإسلام	LOC-Admin
+true positives:	81	89	برج إيفل	LOC-Build
+False positives:	26	35	شان دمارس	LOC-Build
+true positives:	40	47	الجزائر	LOC-Admin
+true positives:	155	159	تبسة	LOC-Admin
+False negatives:	38	44	تستقطب	LOC-Admin
+False positives:	70	80	قة النباتا	LOC-Build
+False negatives:	30	40	مسجد باريس	LOC-Build
+False positives:	526	538	فراديس الحور	LOC-Natur
+False positives:	5	19	حديقة النباتات	LOC-Build
+true positives:	4	9	باريس	LOC-Admin
+true positives:	34	53	قنطرة إسكندر الثالث	LOC-Build
+False positives:	68	82	ساحة الأنواليد	LOC-Build
+true positives:	701	706	فرنسا	LOC-Admin
+False positives:	584	600	المدارس الثانوية	LOC-Build
+true positives:	27	40	بلاد الإنكليز	LOC-Admin
+False positives:	100	106	النمسا	LOC-Admin
+False negatives:	72	78	أمريكة	LOC-Admin
+true positives:	93	108	الميدان الرئيسي	LOC-Build
+true positives:	160	163	مصر	LOC-Admin
+False positives:	88	93	فرنسا	LOC-Admin
+False negatives:	87	93	بفرنسا	LOC-Admin
+False positives:	3	20	ساحة السان سولبيس	LOC-Admin
+False negatives:	3	13	ساحة السان	LOC-Admin
+true positives:	25	30	فرنسا	LOC-Admin
+False positives:	253	258	پاريس	LOC-Admin
+False negatives:	247	258	بلدية پاريس	LOC-Build
+False positives:	32	45	مدينة الجزائر	LOC-Admin
+true positives:	26	40	البلاد العربية	LOC-Admin
+False positives:	205	210	باريس	LOC-Admin
+False negatives:	204	210	بباريس	LOC-Admin
+true positives:	207	212	فرنسا	LOC-Admin
+False positives:	59	70	غرفة البقال	LOC-Build
+true positives:	37	42	باريس	LOC-Admin
+False positives:	43	61	الكلية الكاثوليكية	LOC-Build
+true positives:	27	32	لبنان	LOC-Admin
+False positives:	31	37	لوندرة	LOC-Admin
+False negatives:	30	37	بلوندرة	LOC-Admin
+true positives:	24	35	شارع الرسول	LOC-Path
+False positives:	163	168	باريس	LOC-Admin
+False negatives:	162	168	بباريس	LOC-Admin
+False positives:	223	230		LOC-Build
+False negatives:	76	90	جمهورية تريفيز	LOC-Build
+true positives:	111	116	الشرق	LOC-Admin
+true positives:	32	38	أوروبا	LOC-Admin
+False positives:	78	84	دوبلين	LOC-Admin
+true positives:	279	282	مصر	LOC-Admin
+true positives:	48	53	باريس	LOC-Admin
+False positives:	37	53	شارع السان ميشيل	LOC-Path
+False negatives:	37	47	شارع السان	LOC-Admin
+False positives:	54	68	واجهة التياترو	LOC-Path
+False negatives:	41	49	سكة يانا	LOC-Build
+False positives:	119	126	الغورية	LOC-Admin
+true positives:	56	61	باريس	LOC-Admin
+False positives:	26	36	جامعة دمشق	LOC-Build
+true positives:	356	361	الصين	LOC-Admin
+true positives:	10	15	باريس	LOC-Admin
+true positives:	53	58	الصين	LOC-Admin
+Evaluation data set is:[3]
+Evaluation data set is:../CorpusAnnote3cat/groupsAll/group3
+true positives:	10	15	باريس	LOC-Admin
+true positives:	37	42	باريس	LOC-Admin
+true positives:	25	30	لندرة	LOC-Admin
+False negatives:	602	606	صحاف	LOC-Admin
+False positives:	76	87	محطة شاتليه	LOC-Build
+False negatives:	76	188	محطة شاتليه وهي تعتبر أكبر المحطات التي تصل بين خطوط عديدة أمّر عبر أروقة طويلة، دهاليز، سلالم متحركة كهربائية..	LOC-Build
+true positives:	284	289	باريس	LOC-Admin
+true positives:	202	215	الحي اللاتيني	LOC-Admin
+False positives:	115	120	باريس	LOC-Admin
+true positives:	25	39	مدرسة اللاسلكي	LOC-Build
+False positives:	306	311		LOC-Natur
+False negatives:	47	57	شاطئ السين	LOC-Natur
+true positives:	102	107	باريس	LOC-Admin
+False positives:	14	22	فري تایم	LOC-Build
+true positives:	28	37	حي الشباب	LOC-Admin
+False positives:	20	27	وجدت ال	LOC-Admin
+true positives:	16	21	باريس	LOC-Admin
+False positives:	1	10	البانثيون	LOC-Build
+False positives:	24	29	فرنسا	LOC-Admin
+False negatives:	23	29	بفرنسا	LOC-Admin
+False positives:	47	60	جزيرة إنكلترة	LOC-Natur
+False negatives:	47	67	جزيرة إنكلترة اجتمعت	LOC-Admin
+true positives:	71	84	الحي اللاتيني	LOC-Admin
+False positives:	36	58	ضفة نهر السين الشمالية	LOC-Natur
+False negatives:	40	49	نهر السين	LOC-Natur
+False positives:	90	97	 في غير	LOC-Admin
+False negatives:	31	38	مرسيليا	LOC-Admin
+true positives:	52	65	بلاد الفرنسيس	LOC-Admin
+False positives:	353	369	الدولة العثمانية	LOC-Admin
+False negatives:	243	246	مصر	LOC-Admin
+true positives:	72	76	ليون	LOC-Admin
+False positives:	4	9	إنجرس	LOC-Admin
+true positives:	126	131	پاريس	LOC-Admin
+False positives:	289	295	الكعبة	LOC-Build
+False positives:	9	28	سور المدينة العتيقة	LOC-Build
+False negatives:	49	60	باب قسنطينة	LOC-Path
+False positives:	279	290	مدينة بغداد	LOC-Admin
+False negatives:	285	290	بغداد	LOC-Admin
+true positives:	7	12	باريس	LOC-Admin
+False positives:	305	315	مدينة تبسة	LOC-Admin
+False negatives:	311	315	تبسة	LOC-Admin
+true positives:	107	116	جبل إيداي	LOC-Natur
+False positives:	198	205	فينيقية	LOC-Admin
+False negatives:	274	284	طوبال قاين	LOC-Natur
+true positives:	521	529	إسلامبول	LOC-Admin
+False negatives:	409	415	بالسير	LOC-Admin
+true positives:	216	227	مدينة باريس	LOC-Admin
+true positives:	21	24	مصر	LOC-Admin
+true positives:	61	66	باريس	LOC-Admin
+true positives:	24	37	الحي اللاتيني	LOC-Admin
+False positives:	206	217	أرض السرادق	LOC-Path
+False positives:	487	492		LOC-Admin
+False negatives:	83	88	باريس	LOC-Admin
+False positives:	1873	1878		LOC-Admin
+true positives:	273	281	باب يانا	LOC-Build
+False positives:	472	489	باب المعبد المصري	LOC-Build
+False negatives:	293	306	المعرض المصري	LOC-Build
+true positives:	74	79	فرنسا	LOC-Admin
+true positives:	128	136	السوربون	LOC-Build
+False positives:	27	32	باريس	LOC-Admin
+False negatives:	27	39	باريس العربي	LOC-Admin
+true positives:	85	97	البحر الأسود	LOC-Natur
+False positives:	49	61	البحر الأبيض	LOC-Natur
+False negatives:	10	23	البحر الجواني	LOC-Natur
+true positives:	112	119	الجزائر	LOC-Admin
+False positives:	281	288	مرسيليا	LOC-Admin
+true positives:	26	40	قهوة أبي الفضل	LOC-Build
+true positives:	46	51	فرنسا	LOC-Admin
+False positives:	21	32	مدينة باريس	LOC-Admin
+False negatives:	27	32	باريس	LOC-Admin
+true positives:	21	26	فرنسا	LOC-Admin
+False positives:	1	5	كالي	LOC-Admin
+true positives:	34	43	قوس النصر	LOC-Build
+False positives:	1	16	شارع الشانزلزيه	LOC-Path
+False negatives:	113	127	ساحة الكونكورد	LOC-Build
+true positives:	20	32	بلاد الفلمنك	LOC-Admin
+False positives:	51	63	بلاد السويسة	LOC-Admin
+true positives:	23	42	قنطرة إسكندر الثالث	LOC-Build
+False negatives:	346	351	الغرب	LOC-Admin
+true positives:	9	14	باريس	LOC-Admin
+False positives:	21	26	السين	LOC-Natur
+False positives:	50	61	مصر القديمة	LOC-Admin
+False negatives:	50	53	مصر	LOC-Admin
+true positives:	4	17	الحي اللاتيني	LOC-Admin
+true positives:	44	47	مصر	LOC-Admin
+False positives:	167	176	بهو فرنسا	LOC-Build
+False negatives:	166	176	ببهو فرنسا	LOC-Admin
+true positives:	180	185	الصين	LOC-Admin
+False positives:	187	192	الهند	LOC-Admin
+False positives:	24	32	سهل تبسة	LOC-Natur
+False negatives:	28	32	تبسة	LOC-Admin
+true positives:	4	11	إنكلترا	LOC-Admin
+true positives:	23	27	تبسة	LOC-Admin
+False positives:	171	187	العالم الإسلامي.	LOC-Admin
+False negatives:	171	186	العالم الإسلامي	LOC-Admin
+true positives:	40	48	السوربون	LOC-Build
+False positives:	67	78	جامعة باريس	LOC-Build
+False negatives:	73	78	باريس	LOC-Admin
+False positives:	116	121	السين	LOC-Natur
+true positives:	7	12	الغرب	LOC-Admin
+False positives:	78	94	البلاد الجمهورية	LOC-Admin
+true positives:	74	79	فرنسا	LOC-Admin
+true positives:	267	275	بريتانيا	LOC-Admin
+False positives:	64	67	مصر	LOC-Admin
+False positives:	11	16	دروکس	LOC-Admin
+False negatives:	306	312	المظهر	LOC-Admin
+true positives:	12	17	فرنسا	LOC-Admin
+False positives:	1	15	مدينة وسهنغتون	LOC-Admin
+False positives:	126	137	شارع لوكونت	LOC-Path
+true positives:	161	168	الأندلس	LOC-Admin
+False negatives:	240	250	مروج الذهب	LOC-Build
+true positives:	247	252	مراكش	LOC-Admin
+False positives:	9	19	معبد أنكور	LOC-Build
+False negatives:	25	37	العرض الكبرى	LOC-Build
+true positives:	6	17	بلاد أوروبا	LOC-Admin
+False positives:	33	51	بلاد الدولة العلية	LOC-Admin
+False negatives:	38	51	الدولة العلية	LOC-Admin
+true positives:	88	96	السوربون	LOC-Build
+False positives:	38	43	الشمس	LOC-Natur
+False positives:	116	121	 إلا 	LOC-Admin
+False negatives:	27	32	باريس	LOC-Admin
+true positives:	19	27	السوربون	LOC-Build
+False positives:	382	410	المنطقة السابعة عشر من باريس	LOC-Admin
+False negatives:	382	397	المنطقة السابعة	LOC-Admin
+true positives:	42	49	إنكلترة	LOC-Admin
+False positives:	81	87	برستول	LOC-Admin
+true positives:	187	192	پاريس	LOC-Admin
+False positives:	58	68	مدينة پراج	LOC-Admin
+False positives:	37	50	داً، يحمل على	LOC-Admin
+False negatives:	3	16	حي الشانزلزيه	LOC-Admin
+False positives:	33	38	بلغ م	LOC-Admin
+true positives:	116	123	إيطاليا	LOC-Admin
+False positives:	141	147	صقلّية	LOC-Admin
+False positives:	65	76	شارع تريفيز	LOC-Adress
+False negatives:	65	76	شارع تريفيز	LOC-Path
+true positives:	68	73	باريس	LOC-Admin
+False positives:	1	6	باريس	LOC-Admin
+true positives:	6	11	باريس	LOC-Admin
+true positives:	75	81	إرلاند	LOC-Admin
+False positives:	433	439		LOC-Admin
+False negatives:	131	137	بلجيكا	LOC-Admin
+False positives:	51	63	البحر المحيط	LOC-Natur
+true positives:	155	162	بلغاريا	LOC-Admin
+False positives:	78	88	الدانيميرك	LOC-Admin
+False negatives:	118	123	إيران	LOC-Admin
+true positives:	125	130	باريس	LOC-Admin
+False positives:	165	168	إكس	LOC-Admin
+true positives:	146	151	باريس	LOC-Admin
+true positives:	150	155	باريس	LOC-Admin
+true positives:	18	23	فرنسا	LOC-Admin
+true positives:	104	111	القاهرة	LOC-Admin
+False positives:	67	98	دار الوكالة السياسية الفرنساوية	LOC-Build
+False negatives:	67	87	دار الوكالة السياسية	LOC-Build
+False positives:	173	184	مرصد جرنویش	LOC-Build
+False negatives:	134	144	سطح المقهى	LOC-Build
+False positives:	8	17	نهر الرون	LOC-Natur
+False negatives:	109	123	مقاطعة الرينان	LOC-Admin
+true positives:	23	28	فرنسا	LOC-Admin
+true positives:	33	41	سكة يانا	LOC-Build
+False positives:	126	136	هيكل دندور	LOC-Build
+False negatives:	59	76	هيكل أبقاه الزمان	LOC-Build
+true positives:	137	142	باريس	LOC-Admin
+False positives:	154	161	البوسنة	LOC-Admin
+False positives:	38	49	ظ صحة الأبد	LOC-Admin
+true positives:	12	24	سراي التعليم	LOC-Build
+False positives:	26	53	سراي الآداب والعلوم والفنون	LOC-Build
+False negatives:	5	10	مراكش	LOC-Admin
+False positives:	1108	1119		LOC-Admin
+true positives:	21	25	والس	LOC-Admin
+true positives:	25	34	كلية الطب	LOC-Build
+true positives:	26	37	قهوة الجامع	LOC-Build
+true positives:	169	172	مصر	LOC-Admin
+False positives:	183	194	مدائن الشرق	LOC-Admin
+False negatives:	189	194	الشرق	LOC-Admin
+False positives:	140	147	الجزائر	LOC-Admin
+False negatives:	235	247	بنادي الترقي	LOC-Build
+true positives:	107	119	البحر المظلم	LOC-Natur
+False positives:	168	189	البحر المتوسط والأبيض	LOC-Natur
+False negatives:	168	181	البحر المتوسط	LOC-Natur
+true positives:	261	266	باريس	LOC-Admin
+False positives:	145	154	جهاد أباد	LOC-Admin
+False positives:	15	33	في هذه الأيام عن و	LOC-Admin
+False negatives:	47	53	أمريكا	LOC-Admin
+true positives:	74	88	وزارة الحقانية	LOC-Build
+true positives:	166	173	الجزائر	LOC-Admin
+true positives:	61	66	باريس	LOC-Admin
+true positives:	136	141	باريس	LOC-Admin
+False positives:	151	156	لندرا	LOC-Admin
+False positives:	105	109	بلاد	LOC-Admin
+False negatives:	105	118	بلاد الإنكليز	LOC-Admin
+true positives:	134	139	باريس	LOC-Admin
+False positives:	1	7	شاتليه	LOC-Admin
+False positives:	80	93	.	LOC-Build
+False negatives:	35	47	المعرض العام	LOC-Build
+False positives:	31	49	فصل لك بعض الأنظمة	LOC-Admin
+False negatives:	63	68	فرنسا	LOC-Admin
+true positives:	105	114	أبي الهول	LOC-Build
+False positives:	94	99	الهرم	LOC-Build
+False negatives:	9	15	السيدة	LOC-Admin
+False positives:	302	308		LOC-Admin
+False negatives:	38	44	أوروبا	LOC-Admin
+true positives:	115	120	باريس	LOC-Admin
+False positives:	59	66	مرسيليا	LOC-Admin
+true positives:	286	291	فرنسا	LOC-Admin
+False positives:	74	80	برازيل	LOC-Admin
+False negatives:	114	130	ديوان البورتوغال	LOC-Build
+true positives:	16	21	باريس	LOC-Admin
+False positives:	756	763		LOC-Admin
+False negatives:	16	28	القسم المصري	LOC-Build
+Evaluation data set is:[4]
+Evaluation data set is:../CorpusAnnote3cat/groupsAll/group4
+true positives:	24	30	أوروبا	LOC-Admin
+true positives:	14	19	باريس	LOC-Admin
+true positives:	74	87	الحي اللاتيني	LOC-Admin
+true positives:	128	131	مصر	LOC-Admin
+False positives:	31	36	پاريس	LOC-Admin
+true positives:	38	43	فرنسا	LOC-Admin
+False positives:	1	6	فرنسا	LOC-Admin
+False positives:	3	13	مطار اورلي	LOC-Build
+true positives:	34	46	منطقة شاتلیه	LOC-Admin
+False positives:	48	65	مركز جورج بومبيدو	LOC-Build
+true positives:	107	112	پاريس	LOC-Admin
+False positives:	167	178	عاصمة فرنسا	LOC-Admin
+False negatives:	173	178	فرنسا	LOC-Admin
+true positives:	154	159	فرنسا	LOC-Admin
+true positives:	46	51	باريس	LOC-Admin
+true positives:	53	62	باب فرساي	LOC-Admin
+true positives:	6	11	باريس	LOC-Admin
+true positives:	23	35	البحر المحيط	LOC-Natur
+False negatives:	73	94	بلاد المنطقة المعتدلة	LOC-Admin
+true positives:	109	120	بلاد أوروبا	LOC-Admin
+False positives:	50	60	البورتوغال	LOC-Admin
+False negatives:	23	29	بلاد (	LOC-Admin
+true positives:	238	243	الشام	LOC-Admin
+False positives:	255	262	المدينة	LOC-Admin
+False positives:	27	40	حي الشانزلزيه	LOC-Admin
+False positives:	97	102	ظاهر 	LOC-Admin
+False negatives:	24	29	باريس	LOC-Admin
+true positives:	15	25	ناحية تبسة	LOC-Admin
+true positives:	45	50	باريس	LOC-Admin
+true positives:	48	53	باريس	LOC-Admin
+true positives:	18	27	كلية الطب	LOC-Build
+true positives:	65	70	باريس	LOC-Admin
+False positives:	78	87	مدينة آبو	LOC-Admin
+False negatives:	73	83	هيكل مدينة	LOC-Build
+False positives:	13	18	باريس	LOC-Admin
+False negatives:	0	11	مدرسة الرصد	LOC-Build
+true positives:	421	426	باريس	LOC-Admin
+False negatives:	233	238	أنوثة	LOC-Admin
+False positives:	111	125	بلاد النوتازية	LOC-Admin
+False negatives:	5	11	بلاد (	LOC-Admin
+False positives:	28	33	فرنسا	LOC-Admin
+False negatives:	27	33	لفرنسا	LOC-Admin
+true positives:	49	60	مدينة النور	LOC-Admin
+true positives:	4	17	الحي اللاتيني	LOC-Admin
+true positives:	97	102	باريس	LOC-Admin
+true positives:	11	16	باريس	LOC-Admin
+False positives:	36	41	باريس	LOC-Admin
+true positives:	526	530	تونس	LOC-Admin
+False positives:	238	242	تونس	LOC-Admin
+False negatives:	133	149	البلاد الإسلامية	LOC-Admin
+true positives:	98	103	بيروت	LOC-Admin
+False positives:	76	94	مقهى الدولتشي فيتا	LOC-Build
+False positives:	36	49	ضَهْرِ البيدر	LOC-Admin
+False negatives:	30	42	منطقة ضَهْرِ	LOC-Admin
+true positives:	5	16	بلاد أمريكة	LOC-Admin
+False negatives:	82	94	الهند الغربي	LOC-Admin
+true positives:	4	9	باريس	LOC-Admin
+False positives:	116	128	الشرق الكبير	LOC-Admin
+False negatives:	116	128	الشرق الكبير	LOC-Path
+true positives:	83	92	أوستراليا	LOC-Admin
+False positives:	4	14	كاليفورنيا	LOC-Admin
+true positives:	299	305	أوروبا	LOC-Admin
+False positives:	204	212	بيت الله	LOC-Build
+False positives:	14	19	فرنسا	LOC-Admin
+true positives:	236	248	قصر لقسمبورغ	LOC-Build
+False positives:	268	278	قصر بوربون	LOC-Build
+False negatives:	38	43	فرنسا	LOC-Admin
+False positives:	50	56		LOC-Admin
+true positives:	119	123	تونس	LOC-Admin
+False positives:	104	113	محطة قربس	LOC-Build
+true positives:	436	449	بلاد الأناطول	LOC-Admin
+False positives:	58	64	بالرمو	LOC-Admin
+true positives:	17	22	باريس	LOC-Admin
+true positives:	49	54	باريس	LOC-Admin
+true positives:	27	32	مالطة	LOC-Admin
+true positives:	40	45	باريس	LOC-Admin
+true positives:	19	24	باريس	LOC-Admin
+true positives:	35	43	بريتانيا	LOC-Admin
+False positives:	18	23	!	LOC-Admin
+true positives:	16	19	مصر	LOC-Admin
+False positives:	384	390	أوروبا	LOC-Admin
+true positives:	202	209	إيطاليا	LOC-Admin
+False positives:	211	225	الدولة العليّة	LOC-Admin
+False negatives:	304	319	بريطانيا العظمى	LOC-Build
+true positives:	175	188	المعرض المصري	LOC-Build
+true positives:	91	104	حديقة لكسمبور	LOC-Build
+False positives:	4	55	الواجهة الخلفية للمعبد الواجهة القبلية للقسم المصري	LOC-Build
+False negatives:	4	19	الواجهة الخلفية	LOC-Build
+true positives:	51	61	الشانزلزية	LOC-Admin
+true positives:	18	21	مصر	LOC-Admin
+true positives:	31	45	جمهورية تريفيز	LOC-Build
+False negatives:	102	121	قاعة محاضرات إضافية	LOC-Build
+False positives:	43	46	مصر	LOC-Admin
+true positives:	299	313	مدرسة اللاسلكي	LOC-Build
+False positives:	186	199	الحي اللاتيني	LOC-Admin
+true positives:	100	106	لوندرة	LOC-Admin
+False positives:	20	32	مدينة لوندرة	LOC-Admin
+False negatives:	77	82	فرنسا	LOC-Admin
+False positives:	10	30	البحر الأبيض المتوسط	LOC-Natur
+true positives:	171	178	القاهرة	LOC-Admin
+False positives:	65	80	حدائق قصر النيل	LOC-Build
+False negatives:	71	80	قصر النيل	LOC-Build
+true positives:	128	135	القاهرة	LOC-Admin
+False negatives:	65	70	باريس	LOC-Admin
+true positives:	16	26	جبل الاقرع	LOC-Natur
+False positives:	10	15	تركيا	LOC-Admin
+true positives:	95	100	باريس	LOC-Admin
+true positives:	17	38	متحف الصناعات والفنون	LOC-Build
+true positives:	90	99	جبل الشيخ	LOC-Natur
+False positives:	60	70	جبل بلودان	LOC-Natur
+False negatives:	60	77	جبل بلودان الابيض	LOC-Natur
+true positives:	32	42	الإسكندرية	LOC-Admin
+true positives:	50	53	مصر	LOC-Admin
+true positives:	101	113	المعرض العام	LOC-Build
+true positives:	321	326	لندرة	LOC-Admin
+true positives:	12	17	باريس	LOC-Admin
+true positives:	127	130	مصر	LOC-Admin
+False positives:	212	221	مدينة آبو	LOC-Build
+true positives:	150	153	مصر	LOC-Admin
+False positives:	151	157	كمبريج	LOC-Build
+False negatives:	151	157	كمبريج	LOC-Admin
+true positives:	34	39	فرنسا	LOC-Admin
+False positives:	46	65	معمل «شكولات مينيه»	LOC-Build
+true positives:	11	18	القاهرة	LOC-Admin
+False positives:	127	139		LOC-Admin
+true positives:	14	19	باريس	LOC-Admin
+true positives:	110	123	بلاد الإنكليز	LOC-Admin
+true positives:	42	55	الأرض المقدسة	LOC-Admin
+true positives:	13	34	مدرسة الصنائع والفنون	LOC-Build
+False positives:	45	57	كونسيرفاتوار	LOC-Build
+False positives:	1	12	الشانزليزيه	LOC-Admin
+true positives:	240	247	اليونان	LOC-Admin
+true positives:	11	20	نهر السين	LOC-Natur
+False positives:	29	39	مدينة تبسة	LOC-Admin
+False negatives:	35	39	تبسة	LOC-Admin
+False positives:	149	161	جبال القبائل	LOC-Admin
+False negatives:	149	161	جبال القبائل	LOC-Natur
+true positives:	28	33	باريس	LOC-Admin
+true positives:	38	43	باريس	LOC-Admin
+true positives:	121	132	بلاد سويسرا	LOC-Admin
+False positives:	79	96	عجلة پاريس الكبرى	LOC-Build
+False negatives:	84	89	پاريس	LOC-Admin
+true positives:	39	44	باريس	LOC-Admin
+true positives:	33	37	تبسة	LOC-Admin
+true positives:	245	250	لندرة	LOC-Admin
+False positives:	395	402	رويستان	LOC-Admin
+true positives:	25	32	إسبانيا	LOC-Admin
+False positives:	58	64	أفريقة	LOC-Admin
+true positives:	55	67	مدينة دكنهام	LOC-Admin
+False negatives:	23	39	الكنيسة المتفرعة	LOC-Build
+False positives:	76	92	العاصمة الفرنسية	LOC-Admin
+False negatives:	100	120	جمعية الوحدة العربية	LOC-Build
+true positives:	131	136	لندرة	LOC-Admin
+true positives:	238	257	الجمهورية الإسبانية	LOC-Admin
+False negatives:	108	119	مجلة المغرب	LOC-Build
+true positives:	66	69	مصر	LOC-Admin
+False negatives:	3	29	ميزانية المعارف الفرنساوية	LOC-Build
+true positives:	50	59	قوس النصر	LOC-Build
+False positives:	105	110	الهند	LOC-Admin
+False negatives:	20	25	غاندي	LOC-Admin
+true positives:	97	102	باريس	LOC-Admin
+False positives:	142	158	العالم الإسلامي،	LOC-Admin
+true positives:	115	126	بلاد أوروبا	LOC-Admin
+False positives:	186	199	بلاد الأفريقة	LOC-Admin
+False negatives:	89	95	المغرب	LOC-Admin
+true positives:	11	16	باريس	LOC-Admin
+False positives:	138	143	باريس	LOC-Admin
+False positives:	19	24	كلوني	LOC-Build
+False positives:	167	171	تونس	LOC-Admin
+true positives:	186	195	كلية الطب	LOC-Build
+False positives:	197	208	كلية الحقوق	LOC-Build
+true positives:	77	82	باريس	LOC-Admin
+true positives:	14	19	باريس	LOC-Admin
+False positives:	1	6	السين	LOC-Natur
+true positives:	283	286	مصر	LOC-Admin
+False positives:	462	469	رويستان	LOC-Admin
+true positives:	140	152	شمال إفريقيا	LOC-Admin
+False positives:	63	75	شارع سان جاك	LOC-Path
+true positives:	25	30	باريس	LOC-Admin
+true positives:	180	195	بلاد البورتوغال	LOC-Admin
+False positives:	37	43	هولاند	LOC-Admin
+true positives:	25	36	حي مونمارتر	LOC-Admin
+False positives:	17	23	شاتلیه	LOC-Admin
+true positives:	170	191	بلاد إيطاليا الجنوبية	LOC-Admin
+False positives:	9	20	مملكة نابلي	LOC-Admin
+Evaluation data set is:[5]
+Evaluation data set is:../CorpusAnnote3cat/groupsAll/group5
+False positives:	114	127		LOC-Admin
+true positives:	8	26	الجمهورية الفرنسية	LOC-Admin
+true positives:	91	95	والس	LOC-Admin
+False positives:	196	206	مكنا كارتا	LOC-Build
+False negatives:	294	299	النور	LOC-Admin
+False positives:	74	82	مارسيليا	LOC-Admin
+true positives:	58	74	ميدان شان دومارس	LOC-Admin
+False positives:	43	54	قصر الصناعة	LOC-Build
+False positives:	25	34	بحر الصين	LOC-Natur
+False negatives:	17	22	الهند	LOC-Admin
+true positives:	218	226	مارسيليا	LOC-Admin
+true positives:	5	19	مقهى الكوليزية	LOC-Build
+true positives:	56	69	بلاد الإنكليز	LOC-Admin
+False positives:	71	76	فرنسا	LOC-Admin
+true positives:	295	300	باريس	LOC-Admin
+False positives:	891	910	كرسي مملكة الفرنسيس	LOC-Admin
+False negatives:	896	910	مملكة الفرنسيس	LOC-Admin
+true positives:	30	35	پاريس	LOC-Admin
+true positives:	35	40	باريس	LOC-Admin
+False positives:	165	170	فرنسا	LOC-Admin
+False negatives:	164	170	لفرنسا	LOC-Admin
+true positives:	74	83	جبل النار	LOC-Natur
+true positives:	44	49	باريس	LOC-Admin
+true positives:	12	17	باريس	LOC-Admin
+true positives:	12	17	باريس	LOC-Admin
+False negatives:	273	278	إجابة	LOC-Admin
+true positives:	245	250	فرنسا	LOC-Admin
+False positives:	274	288	المدرسة الطبية	LOC-Build
+False negatives:	83	95	القطر المصري	LOC-Admin
+true positives:	33	38	باريس	LOC-Admin
+False positives:	74	80	سويسرا	LOC-Admin
+true positives:	8	13	باريس	LOC-Admin
+False negatives:	64	81	مدينة أنيقة مترفه	LOC-Admin
+False positives:	281	296		LOC-Admin
+False negatives:	183	198	حي سيدنا الحسين	LOC-Admin
+False positives:	119	140	متحف الفنون والصناعات	LOC-Build
+False positives:	573	578		LOC-Admin
+False positives:	22	34	السينيغبينيا	LOC-Admin
+true positives:	31	37	أوروبا	LOC-Admin
+true positives:	61	86	الجمهورية العربية المتحدة	LOC-Admin
+False positives:	109	112	مصر	LOC-Admin
+False negatives:	199	209	جبل الدروز	LOC-Natur
+true positives:	25	32	القاهرة	LOC-Admin
+False positives:	116	122	فرانسا	LOC-Admin
+False negatives:	111	122	لملك فرانسا	LOC-Admin
+true positives:	39	52	المعرض المصري	LOC-Build
+False positives:	93	105	المعرض العام	LOC-Build
+False negatives:	63	68	تمضية	LOC-Admin
+true positives:	11	16	عنابة	LOC-Admin
+true positives:	16	23	مرسيليا	LOC-Admin
+False positives:	1	12	الأستورالية	LOC-Admin
+true positives:	79	86	قسنطينة	LOC-Admin
+true positives:	29	32	مصر	LOC-Admin
+true positives:	24	29	بيروت	LOC-Admin
+False negatives:	112	116	نهتف	LOC-Admin
+true positives:	15	28	مدينة مرسيليا	LOC-Admin
+true positives:	25	41	ساحة السان جرمان	LOC-Admin
+False positives:	13	28	الجنة اللاتينية	LOC-Build
+true positives:	20	27	القاهرة	LOC-Admin
+true positives:	4	11	القاهرة	LOC-Admin
+False positives:	13	23	الإسكندرية	LOC-Admin
+true positives:	11	16	فرنسا	LOC-Admin
+False negatives:	104	111	إنكلترة	LOC-Admin
+true positives:	24	29	باريس	LOC-Admin
+False positives:	81	97	مركز لودرو رولان	LOC-Build
+true positives:	6	11	باريس	LOC-Admin
+False positives:	157	164	مرسيليا	LOC-Admin
+true positives:	51	58	اليابان	LOC-Admin
+False positives:	60	65	باريس	LOC-Admin
+False negatives:	59	65	بباريس	LOC-Admin
+False positives:	27	49	لمعهد الدراسات الشرقية	LOC-Build
+False negatives:	27	41	لمعهد الدراسات	LOC-Build
+true positives:	63	68	باريس	LOC-Admin
+False positives:	50	55	السين	LOC-Natur
+False positives:	84	93	الأرجنتين	LOC-Admin
+False negatives:	145	152	دعواتهن	LOC-Admin
+False positives:	80	86	الأزهر	LOC-Build
+true positives:	68	79	حي السوربون	LOC-Admin
+False negatives:	20	33	الحي اللاتيني	LOC-Admin
+False positives:	85	96	باب قسنطينة	LOC-Path
+False negatives:	85	96	باب قسنطينة	LOC-Admin
+true positives:	471	482	بلاد أمريكة	LOC-Admin
+False positives:	435	447	بلاد الإسلام	LOC-Admin
+False positives:	595	600	فرنسا	LOC-Admin
+False negatives:	31	44	قصر ملك فرنسا	LOC-Build
+true positives:	15	20	باريس	LOC-Admin
+False positives:	1	10	نهر السين	LOC-Natur
+False negatives:	5	10	السين	LOC-Natur
+False positives:	128	146	قرية العين الصافية	LOC-Admin
+False negatives:	190	199	بيت الشعر	LOC-Build
+False positives:	28	33	لندرة	LOC-Admin
+False negatives:	165	168	٤٦٤	LOC-Admin
+true positives:	27	31	تبسة	LOC-Admin
+False positives:	153	168	الميدان الرئيسي	LOC-Build
+False positives:	4	19	الجنة اللاتينية	LOC-Build
+true positives:	9	17	السوربون	LOC-Build
+true positives:	39	51	مقر اليونسكو	LOC-Build
+False positives:	22	27		LOC-Admin
+true positives:	255	260	باريس	LOC-Admin
+False negatives:	192	204	سوق المركبات	LOC-Path
+true positives:	46	53	لكسمبور	LOC-Build
+true positives:	68	71	مصر	LOC-Admin
+False positives:	12	25	شقة مدام بيري	LOC-Adress
+False negatives:	12	20	شقة مدام	LOC-Admin
+true positives:	27	41	المخازن الكبرى	LOC-Build
+true positives:	6	11	سوريا	LOC-Admin
+true positives:	159	169	مدينة تبسة	LOC-Admin
+False positives:	362	377	مقاطعة السارجيث	LOC-Admin
+False positives:	148	153	باريس	LOC-Admin
+False negatives:	144	153	مجد باريس	LOC-Admin
+False positives:	59	64	ن الق	LOC-Admin
+False negatives:	14	19	باريس	LOC-Admin
+true positives:	542	547	فرنسا	LOC-Admin
+true positives:	119	128	جبل لبنان	LOC-Natur
+False positives:	19	28	قصر الماء	LOC-Build
+False negatives:	41	63	سراي الصنائع الكيماوية	LOC-Path
+False positives:	70	88	الأكاديمية العلمية	LOC-Build
+False negatives:	4	9	فرنسا	LOC-Admin
+False positives:	56	61	فرنسا	LOC-Admin
+False negatives:	55	61	كفرنسا	LOC-Admin
+true positives:	31	42	مدينة مسينة	LOC-Admin
+False negatives:	97	111	البلاد الشرقية	LOC-Admin
+true positives:	58	64	أوروبا	LOC-Admin
+true positives:	6	17	قصر الاشباح	LOC-Build
+true positives:	137	142	باريس	LOC-Admin
+true positives:	79	92	بلاد أبريزيلة	LOC-Admin
+False positives:	10	25	أمريقة الجنوبية	LOC-Admin
+False positives:	10	25	مكتب سي الجنيدي	LOC-Build
+true positives:	47	66	منطقة الحي اللاتيني	LOC-Admin
+true positives:	12	17	فرنسا	LOC-Admin
+False positives:	1	8	استرلتز	LOC-Admin
+true positives:	17	22	باريس	LOC-Admin
+False negatives:	165	176	مدينة المجد	LOC-Admin
+true positives:	29	42	الحي اللاتيني	LOC-Admin
+False negatives:	5	18	المعرض أبوابه	LOC-Build
+False positives:	294	307	مصحات العجائز	LOC-Build
+true positives:	69	74	باريس	LOC-Admin
+true positives:	14	28	مدرسة اللاسلكي	LOC-Build
+False positives:	69	74	باريس	LOC-Build
+False negatives:	68	74	بباريس	LOC-Admin
+true positives:	221	236	الوكالة العربية	LOC-Build
+False negatives:	56	153	دولة الأمير بافتتاح المعرض منذ اليوم للجمهور، فلبثوا برهة يتأملون في معجزات الأسلوب المصري القديم	LOC-Admin
+true positives:	44	57	المسجد العتيق	LOC-Build
+False positives:	86	99	المسجد الجديد	LOC-Build
+False negatives:	105	116	شيدته الأمة	LOC-Build
+true positives:	21	26	فرنسا	LOC-Admin
+False positives:	36	49	بلاد الأمريقة	LOC-Admin
+False negatives:	11	23	البحر المحيط	LOC-Natur
+False positives:	91	105	ميدان الائتلاف	LOC-Admin
+False negatives:	268	279	وادي الخيال	LOC-Natur
+False positives:	73	99	المجلس البلدي لمدينة باريس	LOC-Build
+False negatives:	94	99	باريس	LOC-Admin
+False positives:	12	25	حديقة لكسمبور	LOC-Build
+False positives:	49	54	ناء ا	LOC-Admin
+False negatives:	245	252	التلاوة	LOC-Admin
+False positives:	159	167	التياترو	LOC-Build
+False negatives:	159	175	التياترو الإقبال	LOC-Natur
+False positives:	13	23	الشانزلزية	LOC-Admin
+False negatives:	8	23	رصيف الشانزلزية	LOC-Build
+False positives:	1	11	الإسكندرية	LOC-Admin
+False negatives:	55	60	الهند	LOC-Admin
+true positives:	153	158	باريس	LOC-Admin
+False negatives:	238	245	كالثائر	LOC-Admin
+False positives:	484	497	مدرسة قسنطينة	LOC-Build
+False negatives:	222	228	بطريقة	LOC-Admin
+False positives:	159	164	لى صف	LOC-Admin
+False negatives:	23	28	باريس	LOC-Admin
+true positives:	26	31	باريس	LOC-Admin
+true positives:	9	14	فرنسا	LOC-Admin
+False positives:	48	63	الوكالة العربية	LOC-Build
+true positives:	102	114	المعرض العام	LOC-Build
+true positives:	144	153	مدينة سنس	LOC-Admin
+False positives:	349	354	فرنسا	LOC-Admin
+False negatives:	348	354	بفرنسا	LOC-Admin
+False positives:	99	115	المتاحف الصناعية	LOC-Build
+False negatives:	129	146	المنسوجات القديمة	LOC-Admin
+true positives:	97	102	الشام	LOC-Admin
+False positives:	171	178	برتوغال	LOC-Admin
+true positives:	74	81	الجزائر	LOC-Admin
+true positives:	17	29	جامعة الأزهر	LOC-Build
+False positives:	31	42	جامعة باريس	LOC-Build
+False negatives:	37	42	باريس	LOC-Admin
+true positives:	63	68	باريس	LOC-Admin
+False positives:	14	24	معرض الصور	LOC-Build
+true positives:	5	12	إيطاليا	LOC-Admin
+true positives:	3	17	بلاد الأفريقية	LOC-Admin
+False positives:	90	101	بحر الظلمات	LOC-Natur
+False negatives:	218	230	البحر الأحمر	LOC-Natur
+true positives:	40	44	جنيف	LOC-Admin
+False negatives:	119	138	جريدة الأمة العربية	LOC-Build
+False positives:	476	479	مصر	LOC-Admin
+False positives:	83	91	السوربون	LOC-Build
+False positives:	32	45	 من تسميم الأ	LOC-Admin
+False negatives:	19	32	بلاد الإنكليز	LOC-Admin
+true positives:	3	14	بلاد أوروبا	LOC-Admin
+False positives:	84	90	لوندرة	LOC-Admin
+False negatives:	68	81	الدولة العلية	LOC-Admin
+False positives:	20	36	ميدان شان دومارس	LOC-Path
+False negatives:	20	36	ميدان شان دومارس	LOC-Admin
+true positives:	9	22	الحي اللاتيني	LOC-Admin
+true positives:	13	18	پاريس	LOC-Admin
+true positives:	311	318	إنكلترة	LOC-Admin
+False positives:	320	324	والس	LOC-Admin
+False positives:	6	28	الهرم المعدني والزجاجي	LOC-Build
+False negatives:	104	115	عازف الكمان	LOC-Build
+Evaluation data set is:[6]
+Evaluation data set is:../CorpusAnnote3cat/groupsAll/group6
+False positives:	885	898		LOC-Admin
+true positives:	66	69	مصر	LOC-Admin
+False positives:	108	116	المنصورة	LOC-Admin
+true positives:	41	59	ميدان الأوبسرفتوار	LOC-Admin
+true positives:	16	21	باريس	LOC-Admin
+False positives:	52	75	الحي اللاتيني حي الطلبة	LOC-Admin
+False negatives:	52	65	الحي اللاتيني	LOC-Admin
+False positives:	1	14	حي الشانزلزيه	LOC-Admin
+true positives:	71	81	الإسكندرية	LOC-Admin
+true positives:	106	119	بلاد الإنكليز	LOC-Admin
+true positives:	52	55	مصر	LOC-Admin
+true positives:	48	53	باريس	LOC-Admin
+False positives:	130	154	المملكة العربية السعودية	LOC-Admin
+False negatives:	25	29	تبسة	LOC-Admin
+true positives:	36	42	سويسرا	LOC-Admin
+False positives:	165	170	بلفيل	LOC-Admin
+true positives:	55	67	شمال افريقيا	LOC-Admin
+true positives:	72	83	شارع الرسول	LOC-Path
+False positives:	55	66	متنزه کارنو	LOC-Build
+False negatives:	91	95	تبسة	LOC-Admin
+true positives:	254	259	باريس	LOC-Admin
+False positives:	132	144	جبال القبائل	LOC-Natur
+False negatives:	132	144	جبال القبائل	LOC-Admin
+true positives:	92	97	پاريس	LOC-Admin
+False positives:	80	88	البندقية	LOC-Admin
+False positives:	20	32	ميدان دومارس	LOC-Build
+False negatives:	20	32	ميدان دومارس	LOC-Admin
+true positives:	45	60	الجامعة المصرية	LOC-Build
+true positives:	108	115	الجزائر	LOC-Admin
+true positives:	169	192	معهد الدراسات الإسلامية	LOC-Build
+False positives:	196	203	الصربون	LOC-Build
+true positives:	259	270	جزيرة فرنسا	LOC-Admin
+False positives:	218	231	ضاحية العاصمة	LOC-Admin
+False positives:	10	32	مستشفى الأمراض النفسية	LOC-Build
+true positives:	55	60	باريس	LOC-Admin
+False positives:	1	12	مسرح شاتلیه	LOC-Build
+False negatives:	6	12	شاتلیه	LOC-Admin
+true positives:	204	209	باريس	LOC-Admin
+False positives:	40	45	الشام	LOC-Admin
+False negatives:	29	37	بلاد مصر	LOC-Admin
+true positives:	12	22	قصر المرآة	LOC-Build
+False positives:	24	45	قصر جمهورية الأكواتور	LOC-Build
+False negatives:	28	45	جمهورية الأكواتور	LOC-Build
+False positives:	5	28	مدارس الموسيقى والخطابة	LOC-Build
+true positives:	138	150	بلاد إسبانيا	LOC-Admin
+False positives:	209	222	متحف كوبنهاغن	LOC-Build
+true positives:	23	28	پاريس	LOC-Admin
+False positives:	188	200	بلاد الإفرنج	LOC-Admin
+False positives:	77	81	تبسة	LOC-Admin
+False negatives:	98	120	لمعهد الدراسات الشرقية	LOC-Build
+False positives:	76	86	اط نظر عام	LOC-Admin
+False negatives:	27	37	بلاد فرنسا	LOC-Admin
+False positives:	62	76	القصور الفخيمة	LOC-Build
+true positives:	89	94	فرنسا	LOC-Admin
+False positives:	93	102	مونبارناس	LOC-Admin
+true positives:	396	401	لندرة	LOC-Admin
+False positives:	261	271	ساحل صاسكس	LOC-Natur
+true positives:	104	107	مصر	LOC-Admin
+False negatives:	187	192	باريس	LOC-Admin
+true positives:	135	139	تبسة	LOC-Admin
+False positives:	357	364	الجزائر	LOC-Admin
+true positives:	67	72	باريس	LOC-Admin
+true positives:	59	64	باريس	LOC-Admin
+true positives:	92	98	أوروبا	LOC-Admin
+true positives:	259	264	باريس	LOC-Admin
+False positives:	25	40	فرنساوية، ونستو	LOC-Admin
+False negatives:	115	120	باريس	LOC-Admin
+true positives:	106	111	عنابة	LOC-Admin
+False positives:	65	78	الطرف الأوربي	LOC-Admin
+False positives:	76	98	وزارة المعارف العمومية	LOC-Build
+False negatives:	161	172	كلية الآداب	LOC-Build
+true positives:	84	89	باريس	LOC-Admin
+true positives:	65	78	بلاد المغاربة	LOC-Admin
+False positives:	81	89	بلاد مصر	LOC-Admin
+False negatives:	86	89	مصر	LOC-Admin
+False positives:	24	35	بملحقاتها و	LOC-Admin
+true positives:	4	9	فرنسا	LOC-Admin
+False positives:	80	85		LOC-Admin
+False positives:	214	229	العالم الإسلامي	LOC-Admin
+False negatives:	214	233	العالم الإسلامي سوى	LOC-Admin
+true positives:	27	32	فرنسا	LOC-Admin
+true positives:	82	87	باريس	LOC-Admin
+False negatives:	47	52	باريز	LOC-Admin
+true positives:	73	78	الشام	LOC-Admin
+False positives:	98	109	معبد الكرنك	LOC-Build
+False positives:	80	94	بلاد أغرونلنده	LOC-Admin
+False negatives:	37	45	الأمريقة	LOC-Admin
+False positives:	159	164	باريس	LOC-Admin
+true positives:	236	241	فرنسا	LOC-Admin
+true positives:	198	212	جمهورية تريفيز	LOC-Build
+False positives:	159	167	السوربون	LOC-Build
+true positives:	5	10	فرنسا	LOC-Admin
+False positives:	159	164	فرنسا	LOC-Admin
+False negatives:	158	164	وفرنسا	LOC-Admin
+true positives:	20	27	إنكلترة	LOC-Admin
+False positives:	61	73	منارة أدسطون	LOC-Build
+true positives:	5	17	بلاد أفريقية	LOC-Admin
+False positives:	48	56	بلاد مصر	LOC-Admin
+true positives:	94	109	البوابة الأثرية	LOC-Build
+False positives:	12	33	معرض الأزهار والأشجار	LOC-Build
+False negatives:	12	24	معرض الأزهار	LOC-Build
+False positives:	17	30	قبة الأنواليد	LOC-Build
+true positives:	34	41	مرسيليا	LOC-Admin
+true positives:	40	47	القاهرة	LOC-Admin
+False positives:	18	32	بلاد الأفريقية	LOC-Admin
+true positives:	37	51	قهوة أبي الفضل	LOC-Build
+False positives:	10	15	اف: س	LOC-Admin
+False positives:	133	145	ميدان الرسول	LOC-Path
+False negatives:	63	67	تبسة	LOC-Admin
+False positives:	73	78	باريس	LOC-Admin
+true positives:	115	120	فرنسا	LOC-Admin
+False positives:	153	164	مدينة دروکس	LOC-Admin
+False negatives:	159	164	دروکس	LOC-Admin
+False positives:	36	52	ميدان البانطئوون	LOC-Path
+true positives:	192	201	بيت الشعب	LOC-Build
+False positives:	48	60	منازل الحبال	LOC-Build
+False negatives:	4	9	باريس	LOC-Admin
+true positives:	437	450	بلاد الإنكليز	LOC-Admin
+true positives:	452	467	البلاد الشمالية	LOC-Admin
+true positives:	3	18	مسرح الأولمبياد	LOC-Build
+False positives:	59	69	سهول عنابة	LOC-Natur
+False negatives:	64	69	عنابة	LOC-Admin
+true positives:	10	13	مصر	LOC-Admin
+False negatives:	285	297	مسجد ارتفاعه	LOC-Build
+False positives:	82	105	 ليستشير أهل الفضل في إ	LOC-Build
+False negatives:	159	167	بيت الله	LOC-Build
+true positives:	8	13	باريس	LOC-Admin
+true positives:	80	85	باريس	LOC-Admin
+true positives:	26	31	باريس	LOC-Admin
+False positives:	177	183	سيبريا	LOC-Admin
+true positives:	47	59	طريق الأهرام	LOC-Path
+False positives:	63	74	طريق السويس	LOC-Path
+true positives:	26	31	باريس	LOC-Admin
+true positives:	28	33	فرنسا	LOC-Admin
+False positives:	35	47	مدرسة الحقوق	LOC-Build
+true positives:	148	161	الحي اللاتيني	LOC-Admin
+true positives:	13	24	مدينة نابلي	LOC-Admin
+False positives:	60	76	البلاد الإفرنجية	LOC-Admin
+true positives:	66	71	باريس	LOC-Admin
+False positives:	223	228	برلين	LOC-Admin
+False positives:	144	151	الجزائر	LOC-Admin
+False negatives:	120	135	مركز أبي الموظف	LOC-Build
+true positives:	122	127	باريس	LOC-Admin
+true positives:	586	591	فرنسا	LOC-Admin
+true positives:	34	39	باريس	LOC-Admin
+False positives:	43	56	وزارة المعارف	LOC-Build
+true positives:	3	16	الحي اللاتيني	LOC-Admin
+true positives:	220	234	دكان سي بوذراع	LOC-Build
+False positives:	245	279	مقر هيئة أركان حرب الإصلاح المحلية	LOC-Build
+False positives:	33	41	التياترو	LOC-Build
+true positives:	61	66	باريس	LOC-Admin
+true positives:	112	115	مصر	LOC-Admin
+False positives:	16	50	بهو المهرجانات والاحتفالات الرسمية	LOC-Path
+False positives:	153	167	رصيف محطة ليون	LOC-Build
+False negatives:	158	167	محطة ليون	LOC-Build
+False positives:	90	98	كراكوفيا	LOC-Admin
+False negatives:	113	118	الشرق	LOC-Admin
+true positives:	162	169	الجزائر	LOC-Admin
+true positives:	4	9	فرنسا	LOC-Admin
+False positives:	56	69	جبل قرص السكر	LOC-Natur
+true positives:	74	79	فرنسا	LOC-Admin
+true positives:	9	14	باريس	LOC-Admin
+False positives:	75	89	المقهى المغربي	LOC-Build
+False negatives:	198	208	الفلكلورية	LOC-Admin
+true positives:	121	134	بلاد الإنكليز	LOC-Admin
+true positives:	31	36	فرنسا	LOC-Admin
+False positives:	142	154	السوق الكبير	LOC-Build
+true positives:	9	14	باريس	LOC-Admin
+true positives:	23	34	مدينة عنابة	LOC-Admin
+False positives:	36	43	مرسيليا	LOC-Admin
+False negatives:	35	43	بمرسيليا	LOC-Admin
+true positives:	134	142	نيوكاستل	LOC-Admin
+False negatives:	22	30	بريتانيا	LOC-Admin
+true positives:	13	18	باريس	LOC-Admin
+true positives:	12	22	الإسكندرية	LOC-Admin
+False positives:	13	31	جبل سيدنا عبد الله	LOC-Natur
+False positives:	7	23	البلاد الإفرنجية	LOC-Admin
+False positives:	80	89	ميناء جدة	LOC-Build
+False negatives:	80	89	ميناء جدة	LOC-Path
+true positives:	20	25	سوريا	LOC-Admin
+true positives:	10	20	الإسكندرية	LOC-Admin
+False positives:	152	155	مصر	LOC-Admin
+true positives:	46	51	باريس	LOC-Admin
+Evaluation data set is:[7]
+Evaluation data set is:../CorpusAnnote3cat/groupsAll/group7
+true positives:	21	28	أميريكا	LOC-Admin
+False positives:	153	158	روسية	LOC-Admin
+true positives:	97	102	پاريس	LOC-Admin
+true positives:	222	229	إنكلترة	LOC-Admin
+False positives:	231	235	والس	LOC-Admin
+False positives:	6	22	تمثال سيتي الأول	LOC-Build
+true positives:	248	265	دار الكتب المصرية	LOC-Build
+False positives:	17	30	ميناء مرسيليا	LOC-Path
+False negatives:	17	30	ميناء مرسيليا	LOC-Admin
+False positives:	14	21	المطلية	LOC-Admin
+true positives:	27	39	بلاد إيطاليا	LOC-Admin
+False positives:	13	27	الحيّ اللاتيني	LOC-Admin
+true positives:	13	27	مدينة إسكندرية	LOC-Admin
+False positives:	32	49	شارع نقولا الثاني	LOC-Path
+False negatives:	32	42	شارع نقولا	LOC-Path
+true positives:	13	18	باريس	LOC-Admin
+true positives:	16	25	أوستراليا	LOC-Admin
+False positives:	71	83	مدينة ملبورن	LOC-Admin
+true positives:	182	199	المخازن اللبنانية	LOC-Build
+true positives:	51	56	باريس	LOC-Admin
+False negatives:	61	65	دافئ	LOC-Admin
+true positives:	8	12	تبسة	LOC-Admin
+False positives:	64	69	باريس	LOC-Admin
+true positives:	376	383	الجزائر	LOC-Admin
+False positives:	75	82	القاهرة	LOC-Admin
+true positives:	3	8	باريس	LOC-Admin
+true positives:	60	66	كورنول	LOC-Admin
+False positives:	21	31	جبال أورال	LOC-Natur
+False negatives:	21	31	جبال أورال	LOC-Admin
+true positives:	43	48	باريس	LOC-Admin
+true positives:	55	60	باريس	LOC-Admin
+true positives:	30	35	باريس	LOC-Admin
+true positives:	10	15	باريس	LOC-Admin
+true positives:	7	14	بَـاريس	LOC-Admin
+true positives:	4	11	القاهرة	LOC-Admin
+False positives:	49	57	إسكندرية	LOC-Admin
+False positives:	95	100	باريس	LOC-Admin
+true positives:	162	167	فرنسا	LOC-Admin
+False positives:	190	196	الحجاز	LOC-Admin
+False positives:	13	18	باريس	LOC-Admin
+False negatives:	12	18	بباريس	LOC-Admin
+true positives:	106	114	برج إيفل	LOC-Build
+true positives:	8	22	مقهى الكوليزية	LOC-Build
+False positives:	41	52	شارع تريفيز	LOC-Path
+False negatives:	41	52	شارع تريفيز	LOC-Admin
+False positives:	196	207		LOC-Build
+False negatives:	25	31	فدعوته	LOC-Admin
+False positives:	125	138	بيوت التلغراف	LOC-Build
+true positives:	117	122	فرنسا	LOC-Admin
+true positives:	14	20	أوروبا	LOC-Admin
+False positives:	22	28	أمريكا	LOC-Admin
+False positives:	77	83	أوروبا	LOC-Admin
+true positives:	21	34	حديقة لكسمبور	LOC-Build
+False positives:	94	100	تلمسان	LOC-Admin
+False positives:	26	54	مجلس الأمة الألماني الريشتاغ	LOC-Build
+False negatives:	26	36	مجلس الأمة	LOC-Build
+true positives:	8	16	التياترو	LOC-Build
+true positives:	113	118	السين	LOC-Natur
+true positives:	52	61	نهر السين	LOC-Natur
+False positives:	81	91	نهر غوبلان	LOC-Natur
+False negatives:	168	171	مصر	LOC-Admin
+true positives:	25	32	الجزائر	LOC-Admin
+true positives:	58	72	ساحة الأنواليد	LOC-Build
+False positives:	178	183	فرنسا	LOC-Admin
+False negatives:	177	183	بفرنسا	LOC-Admin
+true positives:	72	81	نهر السين	LOC-Natur
+False positives:	42	61	قسم المعرض الياباني	LOC-Build
+true positives:	62	67	فرنسا	LOC-Admin
+False negatives:	52	58	للدفاع	LOC-Admin
+true positives:	179	184	لندرة	LOC-Admin
+False positives:	242	249	إنكلترة	LOC-Admin
+true positives:	527	532	فرنسا	LOC-Admin
+true positives:	28	33	باريس	LOC-Admin
+False positives:	36	43	مونبليه	LOC-Admin
+False positives:	78	93	منزل المسيو (د)	LOC-Build
+False positives:	21	33	مسجد قايتباي	LOC-Build
+False positives:	197	202	باريس	LOC-Admin
+False negatives:	380	385	رسميا	LOC-Admin
+true positives:	103	116	الحي اللاتيني	LOC-Admin
+true positives:	48	61	الحي اللاتيني	LOC-Admin
+False positives:	59	65	أمريكا	LOC-Admin
+False positives:	42	47	نساني	LOC-Admin
+true positives:	59	64	أوربا	LOC-Admin
+False positives:	81	87	أمريكا	LOC-Admin
+False positives:	159	176	ميدان السيدة زينب	LOC-Admin
+true positives:	96	104	عين أقطر	LOC-Natur
+False positives:	10	14	قربس	LOC-Admin
+true positives:	304	308	تبسة	LOC-Admin
+true positives:	140	151	بحر البلتيك	LOC-Natur
+true positives:	106	118	منطقة شاتليه	LOC-Admin
+False positives:	69	85	الكوميدي فرانسيس	LOC-Build
+true positives:	48	53	فرنسا	LOC-Admin
+true positives:	36	41	بيروت	LOC-Admin
+true positives:	32	37	باريس	LOC-Admin
+False positives:	123	134	مدينة بایون	LOC-Admin
+False negatives:	129	134	بایون	LOC-Admin
+true positives:	43	57	حديقة النباتات	LOC-Build
+False positives:	113	116	مدن	LOC-Admin
+False negatives:	117	122	الشرق	LOC-Admin
+False positives:	80	101	مدينة الطلبة في باريس	LOC-Build
+False negatives:	23	34	مجلس النواب	LOC-Build
+true positives:	155	176	معهد الدراسات الشرقية	LOC-Build
+true positives:	119	124	باريس	LOC-Admin
+False negatives:	105	115	قهوة عربية	LOC-Build
+true positives:	258	265	لكسمبور	LOC-Build
+False positives:	1	14	حديقة لكسمبور	LOC-Build
+False positives:	12	28	المسجد القسنطيني	LOC-Build
+False negatives:	12	36	المسجد القسنطيني الملاصق	LOC-Build
+true positives:	5	18	الحي اللاتيني	LOC-Admin
+False positives:	124	136	قاعة بوهليبي	LOC-Build
+true positives:	31	36	أوربا	LOC-Admin
+true positives:	7	12	باريس	LOC-Admin
+true positives:	89	102	بلاد الإنكليز	LOC-Admin
+true positives:	276	283	إنكلترة	LOC-Admin
+False positives:	76	89	الهيكل المصري	LOC-Path
+False negatives:	380	400	الدولة العلية وبوغوص	LOC-Admin
+true positives:	385	394	شارع مسيو	LOC-Path
+False positives:	538	554	كنيسة سان سولبيس	LOC-Build
+False negatives:	544	554	سان سولبيس	LOC-Path
+true positives:	38	49	مدينة موسكو	LOC-Admin
+False positives:	14	26	بلاد الروسيا	LOC-Admin
+true positives:	119	132	سوق باب فرساي	LOC-Path
+true positives:	145	158	الحي اللاتيني	LOC-Admin
+False positives:	105	115	ساحة كليشي	LOC-Admin
+true positives:	18	36	الجمهورية الفرنسية	LOC-Admin
+true positives:	25	36	التروكاديرو	LOC-Admin
+true positives:	56	61	پاريس	LOC-Admin
+true positives:	80	101	متحف الفنون والصناعات	LOC-Build
+False positives:	108	121	باب سان دونيس	LOC-Path
+False negatives:	108	121	باب سان دونيس	LOC-Admin
+true positives:	6	17	مملكة فرنسا	LOC-Admin
+true positives:	4	14	كاليفورنيا	LOC-Admin
+False positives:	120	133	الدول المتحدة	LOC-Admin
+False positives:	114	133	مقصف حديقة الأزبكية	LOC-Build
+False negatives:	119	133	حديقة الأزبكية	LOC-Build
+False positives:	200	205		LOC-Admin
+true positives:	319	322	مصر	LOC-Admin
+False negatives:	99	106	سبكتاكل	LOC-Admin
+true positives:	247	252	الشام	LOC-Admin
+False negatives:	173	184	معرض الكلام	LOC-Build
+False positives:	91	100	ماكدونالد	LOC-Build
+False positives:	150	155	باريس	LOC-Admin
+False negatives:	392	397	باريس	LOC-Admin
+true positives:	126	131	فرنسا	LOC-Admin
+False positives:	133	142	الدانيمرك	LOC-Admin
+true positives:	105	110	باريس	LOC-Admin
+False positives:	14	41	السوربون قسم اللغة الفرنسية	LOC-Adress
+False negatives:	14	22	السوربون	LOC-Build
+true positives:	44	64	شارع فريدريك میسترال	LOC-Path
+False negatives:	154	168	جمهورية تريفيز	LOC-Build
+False positives:	39	51	ساحة البناية	LOC-Path
+False negatives:	39	51	ساحة البناية	LOC-Build
+true positives:	65	70	باريس	LOC-Admin
+true positives:	120	125	فرنسا	LOC-Admin
+False negatives:	104	109	باريس	LOC-Admin
+False positives:	169	174	باريس	LOC-Admin
+False positives:	94	104	محطة فرساي	LOC-Build
+true positives:	22	29	الجزائر	LOC-Admin
+False positives:	105	112	قسنطينة	LOC-Admin
+False positives:	55	62	قسنطينة	LOC-Admin
+False negatives:	55	67	قسنطينة أفكر	LOC-Admin
+true positives:	251	256	باريس	LOC-Admin
+False positives:	259	262	إكس	LOC-Admin
+False positives:	234	252	ميدان بلازا فنیشیا	LOC-Path
+False negatives:	107	121	مقاطعة الدوقية	LOC-Admin
+False positives:	125	137	جريدة الدفاع	LOC-Build
+true positives:	46	51	فرنسا	LOC-Admin
+true positives:	70	75	فرنسا	LOC-Admin
+true positives:	244	255	نهر أشبيلية	LOC-Natur
+False positives:	14	20	خراسان	LOC-Admin
+False negatives:	166	170	حماة	LOC-Admin
+False positives:	217	227	مدينة تبسة	LOC-Admin
+False negatives:	223	227	تبسة	LOC-Admin
+False positives:	51	61	قصر البلور	LOC-Build
+False positives:	27	40	أسابيع الماضي	LOC-Admin
+False negatives:	69	82	الحي اللاتيني	LOC-Admin
+False positives:	161	172	ملهى الليدو	LOC-Build
+False positives:	8	14	أمريكا	LOC-Admin
+False positives:	177	192	العالم الإسلامي	LOC-Admin
+False negatives:	177	198	العالم الإسلامي اليوم	LOC-Admin
+False positives:	74	81	الحديدة	LOC-Admin
+true positives:	6	10	تبسة	LOC-Admin
+true positives:	164	178	حديقة النباتات	LOC-Build
+False positives:	6	10	كالي	LOC-Admin
+False positives:	20	28	الآستانة	LOC-Admin
+False negatives:	120	124	روسو	LOC-Admin
+true positives:	56	77	معهد الدراسات الشرقية	LOC-Build
+False positives:	25	30	باريس	LOC-Admin
+Evaluation data set is:[8]
+Evaluation data set is:../CorpusAnnote3cat/groupsAll/group8
+true positives:	12	17	باريس	LOC-Admin
+true positives:	34	39	باريس	LOC-Admin
+False positives:	30	37	القاهرة	LOC-Admin
+False negatives:	25	37	بيوت القاهرة	LOC-Build
+False positives:	1	10	بلاد آسيا	LOC-Admin
+true positives:	86	107	معهد الدراسات الشرقية	LOC-Build
+False negatives:	36	42	للتمعن	LOC-Admin
+False positives:	175	188	المغرب العربي	LOC-Admin
+False negatives:	16	22	لأتابع	LOC-Admin
+true positives:	67	72	باريس	LOC-Admin
+true positives:	133	138	باريس	LOC-Admin
+False positives:	139	150	مدينة النور	LOC-Admin
+true positives:	50	60	جبل الأقرع	LOC-Natur
+true positives:	388	393	فرنسا	LOC-Admin
+False positives:	77	89	دولة إسبانيا	LOC-Admin
+False negatives:	76	89	لدولة إسبانيا	LOC-Admin
+False positives:	221	232	فندق بردوکس	LOC-Build
+true positives:	119	122	مصر	LOC-Admin
+False positives:	124	129	الشرق	LOC-Admin
+true positives:	71	76	أثينا	LOC-Admin
+true positives:	137	142	فرنسا	LOC-Admin
+true positives:	10	15	باريس	LOC-Admin
+true positives:	266	271	باريس	LOC-Admin
+False positives:	76	90	بستان با عيرود	LOC-Natur
+False negatives:	140	145	السوق	LOC-Natur
+true positives:	42	49	اليونان	LOC-Admin
+true positives:	76	83	الأهرام	LOC-Build
+False negatives:	25	41	المدارس الثانوية	LOC-Build
+true positives:	300	305	لندرة	LOC-Admin
+False negatives:	161	167	إرلاند	LOC-Admin
+False positives:	51	72	معهد الدراسات الشرقية	LOC-Build
+False negatives:	30	34	فترة	LOC-Admin
+False positives:	41	48	الفوكيت	LOC-Build
+False positives:	72	85	باب سان دونيس	LOC-Admin
+False negatives:	72	85	باب سان دونيس	LOC-Path
+true positives:	8	13	باريس	LOC-Admin
+False positives:	38	45	تاننبرغ	LOC-Admin
+False negatives:	13	27	للمرشال العجوز	LOC-Admin
+true positives:	30	39	نهر السين	LOC-Natur
+False positives:	24	29	ع...	LOC-Admin
+true positives:	30	35	بيروت	LOC-Admin
+true positives:	16	24	بريتانيا	LOC-Admin
+False positives:	181	186	درهام	LOC-Admin
+true positives:	9	14	باريس	LOC-Admin
+true positives:	4	17	الحي اللاتيني	LOC-Admin
+False positives:	131	138	معية ال	LOC-Admin
+true positives:	31	37	كورنول	LOC-Admin
+true positives:	46	56	معرض پاريس	LOC-Build
+true positives:	31	49	الجمهورية الفرنسية	LOC-Admin
+False positives:	1	6	باريس	LOC-Admin
+true positives:	17	24	إنكلترة	LOC-Admin
+False positives:	26	32	إرلاند	LOC-Admin
+False negatives:	286	294	سكوتلاند	LOC-Admin
+true positives:	263	266	مصر	LOC-Admin
+true positives:	40	45	باريس	LOC-Admin
+False positives:	311	316	بغداد	LOC-Admin
+False negatives:	158	161	مصر	LOC-Admin
+False positives:	29	43	البلاد الصغيرة	LOC-Admin
+true positives:	168	173	فرنسا	LOC-Admin
+true positives:	58	65	القاهرة	LOC-Admin
+False positives:	67	71	بنها	LOC-Admin
+False negatives:	27	37	قرية صغيرة	LOC-Admin
+true positives:	110	115	الشرق	LOC-Admin
+true positives:	84	90	أوروبا	LOC-Admin
+true positives:	10	15	فرنسا	LOC-Admin
+true positives:	137	143	أوروبا	LOC-Admin
+true positives:	190	204	جمهورية تريفيز	LOC-Build
+true positives:	24	29	باريس	LOC-Admin
+False positives:	77	86	قوس النصر	LOC-Build
+False positives:	100	122	سطح مقهى ميدان البلدية	LOC-Build
+False negatives:	104	114	مقهى ميدان	LOC-Build
+true positives:	52	55	مصر	LOC-Admin
+False negatives:	343	356	خطباء المساجد	LOC-Build
+true positives:	659	663	تونس	LOC-Admin
+False positives:	665	671	المغرب	LOC-Admin
+true positives:	47	50	مصر	LOC-Admin
+False positives:	14	25	باب الوكالة	LOC-Build
+true positives:	85	90	باريس	LOC-Admin
+False positives:	56	68	مملكة بروسية	LOC-Admin
+False positives:	97	100	نجد	LOC-Admin
+true positives:	126	137	مدينة دروکس	LOC-Admin
+False positives:	204	212	ريف تبسة	LOC-Admin
+False negatives:	208	212	تبسة	LOC-Admin
+true positives:	42	50	نيوكاستل	LOC-Admin
+False positives:	183	191	ويت هافن	LOC-Admin
+False negatives:	290	301	سكة ليفربول	LOC-Admin
+true positives:	55	62	اليونان	LOC-Admin
+False positives:	110	128	مدرسة فرنسا العظمى	LOC-Build
+False negatives:	110	121	مدرسة فرنسا	LOC-Build
+true positives:	37	42	باريس	LOC-Admin
+true positives:	21	32	مدينة لوزان	LOC-Admin
+False positives:	85	91	أوروبا	LOC-Admin
+true positives:	37	53	البلاد الإسلامية	LOC-Admin
+true positives:	51	56	باريس	LOC-Admin
+true positives:	7	14	الجزائر	LOC-Admin
+true positives:	40	45	باريس	LOC-Admin
+true positives:	16	23	إنكلترة	LOC-Admin
+False positives:	128	139	إقليم «كنت»	LOC-Admin
+true positives:	7	12	باريس	LOC-Admin
+true positives:	418	427	أوستراليا	LOC-Admin
+False positives:	429	439	كاليفورنيا	LOC-Admin
+true positives:	102	105	مصر	LOC-Admin
+False positives:	159	170	نادي الترقي	LOC-Build
+true positives:	30	43	بلاد المسلمين	LOC-Admin
+False positives:	320	326	نابولي	LOC-Admin
+true positives:	31	41	جامعة دمشق	LOC-Build
+False positives:	41	57	بلادنا الإسلامية	LOC-Admin
+true positives:	78	87	حي اليهود	LOC-Admin
+true positives:	129	132	مصر	LOC-Admin
+False negatives:	56	59	مصر	LOC-Admin
+False positives:	26	31	باريس	LOC-Admin
+False negatives:	25	31	بباريس	LOC-Admin
+true positives:	26	31	باريس	LOC-Admin
+true positives:	44	49	فرنسا	LOC-Admin
+true positives:	9	13	تبسة	LOC-Admin
+False positives:	29	35	اميركا	LOC-Admin
+true positives:	226	242	القطاع القسنطيني	LOC-Admin
+true positives:	21	26	باريس	LOC-Admin
+False positives:	36	46	دار البــا	LOC-Build
+true positives:	37	43	كمبريج	LOC-Build
+False positives:	246	252	كمبريج	LOC-Build
+False negatives:	219	234	اللغات المشرقية	LOC-Admin
+False positives:	331	342	مجلس النواب	LOC-Build
+true positives:	372	379	إنكلترة	LOC-Admin
+False negatives:	249	254	ممتدة	LOC-Admin
+False positives:	33	36	مصر	LOC-Admin
+False positives:	6	10	عكاظ	LOC-Path
+true positives:	164	171	الجزائر	LOC-Admin
+true positives:	92	97	باريس	LOC-Admin
+true positives:	38	44	سنتريس	LOC-Admin
+False positives:	240	253		LOC-Build
+False positives:	313	319		LOC-Admin
+False negatives:	15	21	الطائف	LOC-Admin
+true positives:	16	28	المعرض العام	LOC-Build
+true positives:	459	464	لندرة	LOC-Admin
+False positives:	195	200	لندرة	LOC-Admin
+False negatives:	424	437	حيثما اجتمعوا	LOC-Build
+true positives:	4	9	باريس	LOC-Admin
+true positives:	73	83	بلاد الصين	LOC-Admin
+False positives:	18	27	بلاد آسيا	LOC-Admin
+False negatives:	202	207	الهند	LOC-Admin
+true positives:	350	355	لندرة	LOC-Admin
+False positives:	489	501	ديوان كلدهال	LOC-Build
+False negatives:	34	39	لندرة	LOC-Admin
+true positives:	166	171	باريس	LOC-Admin
+False positives:	383	390	مرسيلية	LOC-Admin
+true positives:	67	71	تونس	LOC-Admin
+False positives:	186	191		LOC-Admin
+False negatives:	85	93	فلأمريكا	LOC-Admin
+true positives:	389	400	جزيرة مالطة	LOC-Admin
+False positives:	584	589	مالطة	LOC-Admin
+true positives:	15	20	باريس	LOC-Admin
+False positives:	10	21	بلدية پاريس	LOC-Build
+False negatives:	16	21	پاريس	LOC-Admin
+False positives:	272	282	دها؛ شعرت 	LOC-Path
+False negatives:	93	109	المدرسة المطبوعة	LOC-Build
+true positives:	44	52	بريتانيا	LOC-Admin
+true positives:	176	187	نادي الترقي	LOC-Build
+False positives:	212	225	مدينة الجزائر	LOC-Admin
+False negatives:	218	225	الجزائر	LOC-Admin
+true positives:	57	70	بلاد الإنكليز	LOC-Admin
+False positives:	17	40	مة والجلال: ثلاث أقواس 	LOC-Build
+False negatives:	101	115	ميدان الائتلاف	LOC-Admin
+true positives:	40	43	مصر	LOC-Admin
+False positives:	147	154	جرمانيا	LOC-Admin
+False positives:	183	188	باريس	LOC-Admin
+False negatives:	182	188	بباريس	LOC-Admin
+true positives:	218	221	مصر	LOC-Admin
+False positives:	23	46	البوابة الأثرية الفخيمة	LOC-Build
+False negatives:	81	95	ميدان الائتلاف	LOC-Admin
+False positives:	760	770		LOC-Admin
+False negatives:	111	121	بلاد الهند	LOC-Admin
+true positives:	116	124	جبل طارق	LOC-Natur
+False negatives:	23	30	اليونان	LOC-Admin
+true positives:	57	64	الجزائر	LOC-Admin
+False positives:	32	51	مستعمرات الفرنساوية	LOC-Admin
+true positives:	65	70	باريس	LOC-Admin
+False positives:	23	29	كمبريج	LOC-Admin
+False negatives:	23	29	كمبريج	LOC-Build
+true positives:	29	36	ألمانيا	LOC-Admin
+False positives:	46	52	أمريكا	LOC-Admin
+true positives:	66	70	تبسة	LOC-Admin
+False positives:	26	42	مدينة سيدي مروان	LOC-Admin
+False negatives:	464	469	لاهمّ	LOC-Admin
+False positives:	21	33	بلاد الإفرنج	LOC-Admin
+False positives:	69	74	لندرة	LOC-Admin
+true positives:	325	331	أوروبا	LOC-Admin
+true positives:	23	34	مدينة باريس	LOC-Admin
+true positives:	4	13	نهر السين	LOC-Natur
+False positives:	72	85	باريس القديمة	LOC-Admin
+False negatives:	72	77	باريس	LOC-Admin
+Evaluation data set is:[9]
+Evaluation data set is:../CorpusAnnote3cat/groupsAll/group9
+true positives:	100	114	الدولة الروسية	LOC-Admin
+False positives:	62	69	الروسيا	LOC-Admin
+False negatives:	84	94	بطرس الأول	LOC-Build
+False positives:	61	66	باريس	LOC-Admin
+true positives:	62	67	باريس	LOC-Admin
+true positives:	45	65	شارع فریدریك میسترال	LOC-Path
+true positives:	108	122	مدرسة اللاسلكي	LOC-Build
+False negatives:	225	236	مدرسة معينة	LOC-Build
+true positives:	135	140	باريس	LOC-Admin
+False positives:	15	18	مصر	LOC-Admin
+False positives:	170	182	جامع الزيتون	LOC-Build
+False negatives:	90	95	الغرب	LOC-Admin
+true positives:	154	160	أوروبا	LOC-Admin
+False positives:	1	11	مقهى كلوني	LOC-Build
+true positives:	183	187	دمشق	LOC-Admin
+False positives:	20	31	القوس الأول	LOC-Build
+true positives:	31	44	حديقة لكسمبور	LOC-Build
+False positives:	49	61	القسم المصري	LOC-Path
+true positives:	48	53	باريس	LOC-Admin
+true positives:	34	45	بلاد كلنبيا	LOC-Admin
+False positives:	47	60	بلاد أبريزيلة	LOC-Admin
+False positives:	20	24	تبسة	LOC-Admin
+False positives:	256	269	عاصمة الجزائر	LOC-Admin
+False negatives:	255	269	بعاصمة الجزائر	LOC-Admin
+true positives:	219	226	القاهرة	LOC-Admin
+true positives:	38	45	الجزائر	LOC-Admin
+true positives:	10	24	ساحة الأنواليد	LOC-Build
+False positives:	602	609	أكسفورد	LOC-Build
+true positives:	205	210	باريس	LOC-Admin
+true positives:	148	153	باريس	LOC-Admin
+False positives:	16	21	باريس	LOC-Admin
+False negatives:	50	63	الدار العظيمة	LOC-Build
+true positives:	330	335	باريس	LOC-Admin
+False positives:	5	16	قسم الحيوان	LOC-Path
+true positives:	13	18	باريس	LOC-Admin
+False positives:	185	206	معهد الدراسات الشرقية	LOC-Build
+False negatives:	184	206	لمعهد الدراسات الشرقية	LOC-Build
+true positives:	184	189	فرنسا	LOC-Admin
+False positives:	40	51	دول الإفرنج	LOC-Admin
+true positives:	4	9	باريس	LOC-Admin
+False positives:	4	12	التياترو	LOC-Build
+true positives:	164	172	السوربون	LOC-Build
+False positives:	4	15	كلية الآداب	LOC-Build
+true positives:	264	279	البلاد المشرقية	LOC-Admin
+False positives:	49	64	دولة الرومانيين	LOC-Admin
+true positives:	42	53	قهوة الجامع	LOC-Build
+False positives:	105	112	القاهرة	LOC-Admin
+False positives:	40	50	قنظرة يانا	LOC-Build
+False positives:	61	66	پاريس	LOC-Admin
+true positives:	6	11	باريس	LOC-Admin
+False positives:	51	56	الغرب	LOC-Admin
+False positives:	294	300	منشستر	LOC-Admin
+true positives:	111	116	فرنسا	LOC-Admin
+False positives:	128	133	روسيا	LOC-Admin
+False positives:	384	391	إنكلترة	LOC-Admin
+true positives:	28	42	جمهورية تريفيز	LOC-Build
+False positives:	191	204	الحي اللاتيني	LOC-Admin
+true positives:	35	42	إنكلترة	LOC-Admin
+False positives:	44	50	إرلاند	LOC-Admin
+true positives:	12	17	باريس	LOC-Admin
+true positives:	46	54	سكة يانا	LOC-Build
+False positives:	44	49	إيران	LOC-Admin
+False positives:	57	69	حجرة الدراسة	LOC-Build
+true positives:	159	166	اليابان	LOC-Admin
+False positives:	99	104	يابان	LOC-Admin
+False positives:	52	61	مقهى باهي	LOC-Build
+true positives:	58	73	العالم الإسلامي	LOC-Admin
+False positives:	55	62	القاهرة	LOC-Build
+False negatives:	55	62	القاهرة	LOC-Admin
+False positives:	231	241	مرصد بورجس	LOC-Build
+False negatives:	108	130	سلسلة الأب مورو بطريقة	LOC-Build
+true positives:	406	413	إسبانيا	LOC-Admin
+False positives:	197	202	سورية	LOC-Admin
+False positives:	55	62	قسنطينة	LOC-Admin
+true positives:	11	32	المتحف الحربي الفرنسي	LOC-Build
+False positives:	1	10	الانفاليد	LOC-Build
+False positives:	192	197	السين	LOC-Natur
+False positives:	371	376		LOC-Admin
+true positives:	73	86	الحي اللاتيني	LOC-Admin
+False positives:	15	25	جامع باريس	LOC-Build
+False negatives:	20	25	باريس	LOC-Admin
+true positives:	51	58	ليفربول	LOC-Admin
+true positives:	10	15	باريس	LOC-Admin
+true positives:	277	282	باريس	LOC-Admin
+False positives:	112	117	باريس	LOC-Admin
+true positives:	161	166	پاريس	LOC-Admin
+False positives:	188	193	پاريز	LOC-Admin
+False positives:	43	57	الممالك الكبرى	LOC-Admin
+False positives:	110	127	منطقة السان دونیز	LOC-Admin
+False negatives:	27	32	حسّية	LOC-Admin
+true positives:	248	251	مصر	LOC-Admin
+False positives:	155	159	آسيا	LOC-Admin
+true positives:	54	69	البوابة الفخيمة	LOC-Build
+False positives:	346	353		LOC-Admin
+true positives:	265	279	مملكة سكوتلاند	LOC-Admin
+False positives:	64	69	لندرة	LOC-Admin
+true positives:	70	75	مدريد	LOC-Admin
+False positives:	95	100	قرطبة	LOC-Admin
+true positives:	32	45	الحي اللاتيني	LOC-Admin
+False negatives:	282	291	حي الشباب	LOC-Admin
+true positives:	520	531	شارع الرسول	LOC-Path
+False positives:	228	233	فرنسا	LOC-Admin
+False positives:	105	112	، ولصعو	LOC-Admin
+true positives:	34	39	فرنسا	LOC-Admin
+true positives:	383	390	إيطاليا	LOC-Admin
+true positives:	58	71	الحي اللاتيني	LOC-Admin
+False positives:	29	34	باريس	LOC-Admin
+true positives:	39	43	تبسة	LOC-Admin
+true positives:	17	29	بلاد الإفرنج	LOC-Admin
+False positives:	15	21	بَاريس	LOC-Admin
+False positives:	149	156	ألمانية	LOC-Admin
+False negatives:	138	156	الجمهورية بألمانية	LOC-Admin
+true positives:	130	135	باريس	LOC-Admin
+False positives:	34	40	فرانسا	LOC-Admin
+False positives:	6	11	باريس	LOC-Admin
+False positives:	69	93	الحي السابع عشر في باريس	LOC-Admin
+False negatives:	69	80	الحي السابع	LOC-Admin
+true positives:	13	26	بلاد الفرنسيس	LOC-Admin
+False positives:	377	390	بلاد الإنكليز	LOC-Admin
+true positives:	13	18	باريس	LOC-Admin
+False positives:	2	7	فرنسا	LOC-Admin
+true positives:	136	139	مصر	LOC-Admin
+False positives:	339	346	ر المسل	LOC-Admin
+False negatives:	366	379	ناحية القبائل	LOC-Admin
+true positives:	12	15	مصر	LOC-Admin
+true positives:	39	46	أميريكا	LOC-Admin
+true positives:	10	15	باريس	LOC-Admin
+true positives:	152	156	تبسة	LOC-Admin
+False positives:	20	33	شارع مجد بورج	LOC-Path
+true positives:	107	111	تبسة	LOC-Admin
+False negatives:	35	44	مدينة سیق	LOC-Admin
+False positives:	84	102	المدارس الابتدائية	LOC-Build
+False positives:	127	132	جزائر	LOC-Admin
+true positives:	23	28	السين	LOC-Natur
+true positives:	52	65	الحي اللاتيني	LOC-Admin
+False positives:	67	77	جزيرة ستّي	LOC-Admin
+False positives:	110	113	مصر	LOC-Admin
+False positives:	176	181		LOC-Admin
+False positives:	16	34	مركز تجنيد للناحية	LOC-Build
+true positives:	26	38	بلاد الإسلام	LOC-Admin
+true positives:	31	39	بريتانيا	LOC-Admin
+False positives:	11	31	باب التشريفات الكبرى	LOC-Build
+False negatives:	11	24	باب التشريفات	LOC-Build
+true positives:	23	28	فرنسا	LOC-Admin
+true positives:	34	47	بلاد الفرنسيس	LOC-Admin
+true positives:	37	50	الحي اللاتيني	LOC-Admin
+true positives:	4	18	البلاد الشرقية	LOC-Admin
+False positives:	83	95	بلاد دانيمرق	LOC-Admin
+False negatives:	67	80	بلاد الإنكليز	LOC-Admin
+False positives:	301	306	رومية	LOC-Admin
+False positives:	264	276	مدينة: درسدن	LOC-Admin
+False negatives:	7	20	تمثال الزوبعة	LOC-Build
+true positives:	7	12	فرنسا	LOC-Admin
+true positives:	3	8	باريس	LOC-Admin
+true positives:	43	54	مقهى الهجار	LOC-Build
+False positives:	56	69	الحي اللاتيني	LOC-Admin
+False positives:	19	31	شمال افريقيا	LOC-Admin
+true positives:	9	15	لوندرة	LOC-Admin
+False positives:	52	63	قصر كنسنتون	LOC-Build
+true positives:	283	288	پاريس	LOC-Admin
+False positives:	102	117		LOC-Admin
+true positives:	339	355	میدان البانطئوون	LOC-Admin
+False positives:	174	186	المعرض العام	LOC-Build
+true positives:	103	108	فرنسا	LOC-Admin
+False positives:	23	28	الهند	LOC-Admin
+true positives:	28	46	الجمهورية الفرنسية	LOC-Admin
+true positives:	392	397	الشام	LOC-Admin
+False positives:	399	404	مالطة	LOC-Admin
+False positives:	25	31	المغرب	LOC-Admin
+true positives:	165	169	تبسة	LOC-Admin
+False positives:	105	121	بولفار سان ميشيل	LOC-Path
+False negatives:	105	121	بولفار سان ميشيل	LOC-Admin
+true positives:	43	48	باريس	LOC-Admin
+False positives:	69	73	تبسة	LOC-Admin
+False positives:	399	404	لندرة	LOC-Admin
+true positives:	24	31	الجزائر	LOC-Admin
+fin : 2020-06-05 08:20:43.653246
