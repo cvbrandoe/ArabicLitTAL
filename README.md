@@ -28,9 +28,10 @@ Université Canadienne de Doubaï (CUD), EAU, joseph.dichy@yahoo.fr
 - Memoirs of a Witness to the Century (1965) by Malek Bin Nabi
 
 These texts were annotated in spatial named entites (administrative places, buildings, natural places) by : 
+
 Motasem ALRAHABI, 
 Muhamed ALKHALIL, 
-Joseph DICHY, 
+Joseph DICHY.
 
 Anotations are standoff at the phrase level, the format is Spacy's JSON (https://spacy.io/api/annotation).
 
