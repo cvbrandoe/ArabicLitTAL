@@ -27,11 +27,7 @@ Université Canadienne de Doubaï (CUD), EAU, joseph.dichy@yahoo.fr
 - The Paris Days (1931) by Zaki Mubarak
 - Memoirs of a Witness to the Century (1965) by Malek Bin Nabi
 
-These texts were annotated in spatial named entites (administrative places, buildings, natural places) by : 
-
-Motasem ALRAHABI, 
-Muhamed ALKHALIL, 
-Joseph DICHY.
+These texts were annotated in spatial named entites: administrative places, buildings & natural places.
 
 Anotations are standoff at the phrase level, the format is Spacy's JSON (https://spacy.io/api/annotation).
 
